@@ -10,8 +10,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg3258"
-   width="48"
-   height="48"
+   width="24"
+   height="24"
    version="1.0"
    sodipodi:docname="process-stop.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
@@ -23,6 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -35,17 +36,19 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
+     inkscape:window-width="1366"
+     inkscape:window-height="690"
      id="namedview24"
      showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="24"
-     inkscape:cy="24"
+     inkscape:zoom="20.625"
+     inkscape:cx="12"
+     inkscape:cy="12"
      inkscape:window-x="0"
      inkscape:window-y="28"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg3258" />
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3258"
+     showguides="true"
+     inkscape:guide-bbox="true" />
   <defs
      id="defs3260">
     <radialGradient
@@ -53,7 +56,7 @@
        cx="62.625"
        cy="4.625"
        r="10.625"
-       gradientTransform="matrix(2.1647 0 0 .75294 -111.56 36.518)"
+       gradientTransform="matrix(2.1647,0,0,0.75294,-111.56,36.518)"
        gradientUnits="userSpaceOnUse">
       <stop
          id="stop8840"
@@ -69,7 +72,7 @@
        x2="18.379"
        y1="44.98"
        y2="3.0816"
-       gradientTransform="matrix(.95844 0 0 .95844 .99752 1.9975)"
+       gradientTransform="matrix(0.95844,0,0,0.95844,0.99752,1.9975)"
        gradientUnits="userSpaceOnUse">
       <stop
          id="stop2492"
@@ -84,8 +87,8 @@
        id="radialGradient3249"
        cx="23.896"
        cy="3.99"
-       r="20.397"
-       gradientTransform="matrix(0 2.2875 -3.0194 0 36.047 -50.63)"
+       r="20.396999"
+       gradientTransform="matrix(0,2.2875,-3.0194,0,36.047,-50.63)"
        gradientUnits="userSpaceOnUse">
       <stop
          id="stop3244"
@@ -106,11 +109,11 @@
     </radialGradient>
     <linearGradient
        id="linearGradient3246"
-       x1="63.397"
-       x2="63.397"
+       x1="63.396999"
+       x2="63.396999"
        y1="-12.489"
-       y2="5.4676"
-       gradientTransform="matrix(2.1154 0 0 2.1153 -107.58 32.427)"
+       y2="5.4675999"
+       gradientTransform="matrix(2.1154,0,0,2.1153,-107.58,32.427)"
        gradientUnits="userSpaceOnUse">
       <stop
          id="stop4875"
@@ -123,7 +126,7 @@
     </linearGradient>
   </defs>
   <g
-     transform="matrix(0.39171396,0,0,0.39171396,-1.4285706,-1.4285706)"
+     transform="matrix(0.19585698,0,0,0.19585698,-0.67458283,-0.49101902)"
      id="g8"
      style="fill:#1a1a1a">
     <g

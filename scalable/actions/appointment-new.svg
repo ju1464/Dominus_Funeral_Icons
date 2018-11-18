@@ -7,12 +7,14 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   fill="#000000"
-   viewBox="0 0 48 48"
+   viewBox="0 0 24 24"
    version="1.1"
    id="svg4"
    sodipodi:docname="appointment-new.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   width="24"
+   height="24"
+   style="fill:#000000">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -40,40 +42,39 @@
      inkscape:window-height="690"
      id="namedview6"
      showgrid="false"
-     inkscape:zoom="7.0761588"
-     inkscape:cx="6.8603506"
-     inkscape:cy="24"
+     inkscape:zoom="20.625"
+     inkscape:cx="10.104182"
+     inkscape:cy="13.171573"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4" />
-  <rect
-     style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
-     id="rect812"
-     width="36.59911"
-     height="35.891396"
-     x="5.863946"
-     y="5.84025"
-     ry="0" />
-  <rect
-     style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
-     id="rect816"
-     width="38.175808"
-     height="11.295464"
-     x="4.1464357"
-     y="11.396978" />
-  <rect
-     style="opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.35256481;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
-     id="rect818"
-     width="38.461769"
-     height="12.725269"
-     x="4.718358"
-     y="5.1058345" />
-  <rect
-     style="opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.77491713;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
-     id="rect820"
-     width="8.1498919"
-     height="8.0069113"
-     x="30.883801"
-     y="29.69849" />
+     inkscape:current-layer="svg4"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <g
+     id="g820"
+     transform="translate(-52.219804,12.188265)">
+    <rect
+       ry="0"
+       y="-9.1869011"
+       x="55.013725"
+       height="17.945698"
+       width="18.299555"
+       id="rect812"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:1.75;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+    <rect
+       y="-9.5541086"
+       x="54.440929"
+       height="6.3626347"
+       width="19.230885"
+       id="rect818"
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.67628241;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+    <rect
+       y="2.742219"
+       x="67.523651"
+       height="4.0034556"
+       width="4.0749459"
+       id="rect820"
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.88745856;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+  </g>
 </svg>

@@ -7,12 +7,14 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   fill="#000000"
-   viewBox="0 0 48 48"
+   viewBox="0 0 24 24"
    version="1.1"
    id="svg4"
    sodipodi:docname="archive-extract.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   width="24"
+   height="24"
+   style="fill:#000000">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -21,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,29 +42,18 @@
      inkscape:window-height="690"
      id="namedview6"
      showgrid="false"
-     inkscape:zoom="3.4766083"
-     inkscape:cx="24"
-     inkscape:cy="6.9728174"
+     inkscape:zoom="20.625"
+     inkscape:cx="12"
+     inkscape:cy="12"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4" />
+     inkscape:current-layer="svg4"
+     showguides="true"
+     inkscape:guide-bbox="true" />
   <path
-     d="m12 6c-.93 0-1.761.43-2.311 1.09l-2.77 3.359c-.58.7-.92 1.581-.92 2.551v25c0 2.21 1.79 4 4 4h28c2.21 0 4-1.79 4-4v-25c0-.97-.34-1.851-.91-2.551l-2.77-3.359c-.56-.66-1.39-1.09-2.32-1.09h-24m-.119 2h24l1.869 2h-27.5l1.631-2m10.119 8h4v8h8v4h-8v8h-4v-8h-8v-4h8v-8"
+     style="fill:#1a1a1a;stroke-width:0.5"
+     d="m 5.9690645,3.0242421 c -0.464598,3.065e-4 -0.879493,0.215157 -1.154297,0.544922 l -1.384766,1.6796875 c -0.29,0.35 -0.460937,0.7903905 -0.460937,1.2753905 V 19.024242 c 0,1.105 0.895,2 2,2 H 18.969065 c 1.105,0 2,-0.895 2,-2 V 6.5242421 c 0,-0.485 -0.169102,-0.9253905 -0.454102,-1.2753905 L 19.129221,3.5691641 c -0.28,-0.33 -0.695156,-0.544922 -1.160156,-0.544922 H 5.9700405 Z m -0.05859,1 H 17.910475 l 0.933594,1 H 5.0940685 Z m 1.058594,7.9999999 h 4.0000005 2 3.254882 0.745118 v 2 h -0.745118 -3.254882 -2 -4.0000005 z"
      id="path2"
-     style="fill:#1a1a1a" />
-  <rect
-     style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:3.28918743;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
-     id="rect817"
-     width="18.508474"
-     height="8.6949148"
-     x="13.999"
-     y="15.305084" />
-  <rect
-     style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:3.28918743;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
-     id="rect817-3"
-     width="18.508474"
-     height="8.6949148"
-     x="13.999"
-     y="28" />
+     inkscape:connector-curvature="0" />
 </svg>

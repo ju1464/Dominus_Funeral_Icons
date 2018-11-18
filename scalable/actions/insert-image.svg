@@ -11,9 +11,9 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="svg2"
-   width="48"
-   height="48"
-   viewBox="0 0 48 48"
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
    sodipodi:docname="insert-image.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -43,42 +43,36 @@
      inkscape:window-height="690"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="9.8333333"
-     inkscape:cx="23.898305"
-     inkscape:cy="24"
+     inkscape:zoom="20.625"
+     inkscape:cx="12"
+     inkscape:cy="12"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
-  <rect
-     style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:3.45499992;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-     id="rect817"
-     width="4.0677967"
-     height="10.779661"
-     x="-15.049458"
-     y="38.259033"
-     transform="rotate(-45)"
-     ry="1.2224557" />
-  <rect
-     style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:3.45499992;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-     id="rect817-6"
-     width="4.0677967"
-     height="10.779661"
-     x="-49.038692"
-     y="4.2697959"
-     transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,0,0)"
-     ry="1.2224557" />
-  <rect
-     style="opacity:1;fill:none;fill-opacity:1;stroke:#1a1a1a;stroke-width:3.45499992;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-     id="rect4552"
-     width="30.915255"
-     height="27.355932"
-     x="8.0338984"
-     y="2.6440678"
-     ry="1.22246" />
-  <path
-     style="fill:#808080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 12.813559,24.813559 21.050848,-0.20339 -7.830509,-7.830508 -4.169491,5.288136 -4.677966,-3.762712 z"
-     id="path4554"
-     inkscape:connector-curvature="0" />
+     inkscape:current-layer="svg2"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="false" />
+  <g
+     id="g819"
+     transform="matrix(0.46796816,0,0,0.46796816,0.96119172,1.3578226)">
+    <path
+       id="rect817"
+       d="m 19.287109,35.324219 c -0.312483,0 -0.62384,0.119934 -0.863281,0.359375 l -1.148437,1.146484 c -0.478882,0.478881 -0.478882,1.249634 0,1.728516 l 4.746093,4.746094 1.148438,1.148437 c 0.478881,0.478881 1.249634,0.478881 1.728516,0 l 1.15039,-1.150391 4.742188,-4.74414 c 0.478881,-0.478882 0.478881,-1.249635 0,-1.728516 l -1.146485,-1.146484 c -0.478881,-0.478882 -1.249634,-0.478882 -1.728515,0 l -3.88086,3.880859 -3.882812,-3.880859 c -0.239441,-0.239441 -0.552752,-0.359375 -0.865235,-0.359375 z"
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:3.45499992;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       inkscape:connector-curvature="0" />
+    <rect
+       ry="1.22246"
+       y="2.6440678"
+       x="8.0338984"
+       height="27.355932"
+       width="30.915255"
+       id="rect4552"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#1a1a1a;stroke-width:3.45499992;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4554"
+       d="m 12.813559,24.813559 21.050848,-0.20339 -7.830509,-7.830508 -4.169491,5.288136 -4.677966,-3.762712 z"
+       style="fill:#808080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
 </svg>

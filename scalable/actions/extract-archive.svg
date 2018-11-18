@@ -7,12 +7,14 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   fill="#000000"
-   viewBox="0 0 48 48"
+   viewBox="0 0 24 24"
    version="1.1"
    id="svg4"
    sodipodi:docname="extract-archive.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   width="24"
+   height="24"
+   style="fill:#000000">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -21,6 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -35,19 +38,22 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="859"
-     inkscape:window-height="480"
+     inkscape:window-width="1366"
+     inkscape:window-height="690"
      id="namedview6"
      showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="24"
-     inkscape:cy="24"
+     inkscape:zoom="14.584077"
+     inkscape:cx="0.67878788"
+     inkscape:cy="12"
      inkscape:window-x="0"
      inkscape:window-y="28"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg4" />
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4"
+     showguides="true"
+     inkscape:guide-bbox="true" />
   <path
-     d="m12 6c-.93 0-1.761.43-2.311 1.09l-2.77 3.359c-.58.7-.92 1.581-.92 2.551v25c0 2.21 1.79 4 4 4h28c2.21 0 4-1.79 4-4v-25c0-.97-.34-1.851-.91-2.551l-2.77-3.359c-.56-.66-1.39-1.09-2.32-1.09h-24m-.119 2h24l1.869 2h-27.5l1.631-2m12.12 10l11 11h-7v4h-8v-4h-7l11-11"
+     d="m 5.9757584,2.9757576 c -0.465,0 -0.8805,0.215 -1.1555,0.545 l -1.385,1.6795 c -0.29,0.35 -0.46,0.7905 -0.46,1.2755 V 18.975757 c 0,1.105 0.895,2 2,2 H 18.975258 c 1.105,0 2,-0.895 2,-2 V 6.4757576 c 0,-0.485 -0.17,-0.9255 -0.455,-1.2755 l -1.385,-1.6795 c -0.28,-0.33 -0.695,-0.545 -1.16,-0.545 H 5.9752584 m -0.0595,1 H 17.915758 l 0.9345,1 H 5.1002584 l 0.8155,-1 m 6.0599996,5 5.5,5.4999994 h -3.5 v 2 h -4 v -2 H 6.4757584 L 11.975758,8.9757576"
      id="path2"
-     style="fill:#1a1a1a" />
+     style="fill:#1a1a1a;stroke-width:0.5"
+     inkscape:connector-curvature="0" />
 </svg>

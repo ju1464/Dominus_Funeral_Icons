@@ -7,12 +7,14 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   fill="#000000"
-   viewBox="0 0 48 48"
+   viewBox="0 0 24 24"
    version="1.1"
    id="svg4"
    sodipodi:docname="system-run.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   width="24"
+   height="24"
+   style="fill:#000000">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -21,6 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,15 +42,15 @@
      inkscape:window-height="690"
      id="namedview6"
      showgrid="false"
-     inkscape:zoom="6.9532167"
-     inkscape:cx="24"
-     inkscape:cy="24"
+     inkscape:zoom="20.625"
+     inkscape:cx="12"
+     inkscape:cy="12"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4" />
   <g
-     transform="matrix(0.09481786,0,0,0.09481786,1.0876903,1.1198486)"
+     transform="matrix(0.04740893,0,0,0.04740893,0.52686092,0.36508048)"
      id="g11"
      style="fill:#1a1a1a">
     <g
@@ -59,15 +62,15 @@
          id="path2-3"
          style="fill:#1a1a1a" />
       <polygon
-         points="288.883,315.562 277.705,315.562 205.039,315.562 154.721,315.562 144.709,315.562 106.823,315.562 4.581,315.562 4.581,487.688 425.331,487.688 425.331,315.562 "
+         points="4.581,487.688 425.331,487.688 425.331,315.562 288.883,315.562 277.705,315.562 205.039,315.562 154.721,315.562 144.709,315.562 106.823,315.562 4.581,315.562 "
          id="polygon4"
          style="fill:#1a1a1a" />
       <polygon
-         points="400.229,237.867 459.995,190.686 433.258,178.102 "
+         points="459.995,190.686 433.258,178.102 400.229,237.867 "
          id="polygon6"
          style="fill:#1a1a1a" />
       <polygon
-         points="471.327,244.991 407.066,268.085 483.107,272.092 "
+         points="407.066,268.085 483.107,272.092 471.327,244.991 "
          id="polygon8"
          style="fill:#1a1a1a" />
     </g>

@@ -7,12 +7,14 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   fill="#000000"
-   viewBox="0 0 48 48"
+   viewBox="0 0 24 24"
    version="1.1"
    id="svg4"
    sodipodi:docname="view-fullscreen.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   width="24"
+   height="24"
+   style="fill:#000000">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -21,6 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -35,19 +38,21 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="859"
-     inkscape:window-height="480"
+     inkscape:window-width="1366"
+     inkscape:window-height="690"
      id="namedview6"
      showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="24"
-     inkscape:cy="24"
+     inkscape:zoom="20.625"
+     inkscape:cx="12"
+     inkscape:cy="12"
      inkscape:window-x="0"
      inkscape:window-y="28"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg4" />
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4"
+     showguides="true"
+     inkscape:guide-bbox="true" />
   <path
-     d="m14 28h-4v10h10v-4h-6v-6m-4-8h4v-6h6v-4h-10v10m24 14h-6v4h10v-10h-4v6m-6-24v4h6v6h4v-10h-10"
-     id="path2"
-     style="fill:#1a1a1a" />
+     style="fill:#1a1a1a;stroke-width:0.5"
+     d="M 4.9277344 5.0234375 L 4.9277344 10.023438 L 6.9277344 10.023438 L 6.9277344 7.0234375 L 9.9277344 7.0234375 L 9.9277344 5.0234375 L 4.9277344 5.0234375 z M 13.927734 5.0234375 L 13.927734 7.0234375 L 16.927734 7.0234375 L 16.927734 10.023438 L 18.927734 10.023438 L 18.927734 5.0234375 L 13.927734 5.0234375 z M 4.9277344 14.023438 L 4.9277344 19.023438 L 9.9277344 19.023438 L 9.9277344 17.023438 L 6.9277344 17.023438 L 6.9277344 14.023438 L 4.9277344 14.023438 z M 16.927734 14.023438 L 16.927734 17.023438 L 13.927734 17.023438 L 13.927734 19.023438 L 18.927734 19.023438 L 18.927734 14.023438 L 16.927734 14.023438 z "
+     id="path822" />
 </svg>

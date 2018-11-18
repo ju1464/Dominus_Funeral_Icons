@@ -7,12 +7,14 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   fill="#000000"
-   viewBox="0 0 48 48"
+   viewBox="0 0 24 24"
    version="1.1"
    id="svg4"
    sodipodi:docname="list-remove.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   width="24"
+   height="24"
+   style="fill:#000000">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -21,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,17 +42,19 @@
      inkscape:window-height="690"
      id="namedview6"
      showgrid="false"
-     inkscape:zoom="6.9532165"
-     inkscape:cx="2.5423729"
-     inkscape:cy="25.519199"
+     inkscape:zoom="20.625"
+     inkscape:cx="11.151515"
+     inkscape:cy="12"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4"
-     showguides="false" />
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="false" />
   <path
      inkscape:connector-curvature="0"
-     style="fill:#1a1a1a;stroke-width:0.07060438"
-     d="m 36.261769,24.757681 c -0.05649,0 -0.169461,0 -0.225934,0 L 9.1496827,25.548452 c -0.903736,0 -1.638023,-0.734285 -1.638023,-1.638022 0,-0.903736 0.734287,-1.638023 1.638023,-1.638023 l 26.8861523,0.790771 c 0.05649,0 0.169444,0 0.225934,0 0.338899,-0.564836 1.0167,-0.96022 1.750987,-0.96022 1.129671,0 2.654724,0.790771 2.654724,1.807472 0,1.016706 -1.525053,1.807471 -2.654724,1.807471 -0.79077,0 -1.412088,-0.395382 -1.750987,-0.96022 z"
+     style="fill:#1a1a1a;stroke-width:0.03530219"
+     d="m 18.054456,12.460606 c -0.02824,0 -0.08473,0 -0.112967,0 L 4.498414,12.855991 c -0.451868,0 -0.819011,-0.367142 -0.819011,-0.819011 0,-0.451868 0.367143,-0.819011 0.819011,-0.819011 l 13.443075,0.395385 c 0.02824,0 0.08472,0 0.112967,0 0.16945,-0.282418 0.50835,-0.48011 0.875494,-0.48011 0.564835,0 1.327362,0.395386 1.327362,0.903736 0,0.508353 -0.762527,0.903736 -1.327362,0.903736 -0.395385,0 -0.706044,-0.197691 -0.875494,-0.48011 z"
      id="path2-3-6" />
 </svg>

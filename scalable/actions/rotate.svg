@@ -10,8 +10,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg3777"
-   width="48"
-   height="48"
+   width="24"
+   height="24"
    version="1.1"
    sodipodi:docname="rotate.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
@@ -23,6 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -35,26 +36,28 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
+     inkscape:window-width="1366"
+     inkscape:window-height="690"
      id="namedview34"
      showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="24"
-     inkscape:cy="22.705722"
+     inkscape:zoom="20.625"
+     inkscape:cx="12"
+     inkscape:cy="12"
      inkscape:window-x="0"
      inkscape:window-y="28"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg3777" />
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3777"
+     showguides="true"
+     inkscape:guide-bbox="true" />
   <defs
      id="defs3779">
     <linearGradient
        id="linearGradient2931"
-       x1="28.117"
-       x2="39.686"
+       x1="28.117001"
+       x2="39.686001"
        y1="41.674"
-       y2="28.505"
-       gradientTransform="matrix(.97294 .058553 -.057444 .9545 3.0556 3.9296)"
+       y2="28.504999"
+       gradientTransform="matrix(0.97294,0.058553,-0.057444,0.9545,3.0556,3.9296)"
        gradientUnits="userSpaceOnUse">
       <stop
          id="stop3321"
@@ -72,10 +75,10 @@
     <linearGradient
        id="linearGradient2934"
        x1="32.326"
-       x2="22.245"
-       y1="5.0201"
-       y2="43.366"
-       gradientTransform="matrix(.68922 -.68922 .67615 .67615 -7.2763 28.645)"
+       x2="22.245001"
+       y1="5.0201001"
+       y2="43.366001"
+       gradientTransform="matrix(0.68922,-0.68922,0.67615,0.67615,-7.2763,28.645)"
        gradientUnits="userSpaceOnUse">
       <stop
          id="stop4875"
@@ -90,9 +93,9 @@
        id="linearGradient2937"
        x1="31.226"
        x2="34.966"
-       y1="34.601"
+       y1="34.601002"
        y2="26.843"
-       gradientTransform="matrix(1.0195 .061353 -.06019 1.0001 2.9383 1.0171)"
+       gradientTransform="matrix(1.0195,0.061353,-0.06019,1.0001,2.9383,1.0171)"
        gradientUnits="userSpaceOnUse">
       <stop
          id="stop3262"
@@ -106,10 +109,10 @@
     <linearGradient
        id="linearGradient2939"
        x1="33.687"
-       x2="37.04"
-       y1="35.774"
+       x2="37.040001"
+       y1="35.773998"
        y2="29.857"
-       gradientTransform="matrix(1.0195 .061353 -.06019 1.0001 2.9383 1.0171)"
+       gradientTransform="matrix(1.0195,0.061353,-0.06019,1.0001,2.9383,1.0171)"
        gradientUnits="userSpaceOnUse">
       <stop
          id="stop3269"
@@ -122,11 +125,11 @@
     </linearGradient>
     <linearGradient
        id="linearGradient2942"
-       x1="38.29"
-       x2="6.8907"
-       y1="-2.5977"
+       x1="38.290001"
+       x2="6.8906999"
+       y1="-2.5977001"
        y2="29.409"
-       gradientTransform="matrix(.68922 -.68922 .67615 .67615 -7.2763 28.645)"
+       gradientTransform="matrix(0.68922,-0.68922,0.67615,0.67615,-7.2763,28.645)"
        gradientUnits="userSpaceOnUse">
       <stop
          id="stop3618"
@@ -143,11 +146,11 @@
     </linearGradient>
     <linearGradient
        id="linearGradient3725"
-       x1="39.061"
-       x2="39.061"
-       y1="47.54"
-       y2=".50228"
-       gradientTransform="matrix(-1 0 0 1 48.137 0)"
+       x1="39.061001"
+       x2="39.061001"
+       y1="47.540001"
+       y2="0.50228"
+       gradientTransform="matrix(-1,0,0,1,48.137,0)"
        gradientUnits="userSpaceOnUse">
       <stop
          id="stop3624"
@@ -163,7 +166,7 @@
        cx="62.625"
        cy="4.625"
        r="10.625"
-       gradientTransform="matrix(2.0704 0 0 .65882 -105.56 37.953)"
+       gradientTransform="matrix(2.0704,0,0,0.65882,-105.56,37.953)"
        gradientUnits="userSpaceOnUse">
       <stop
          id="stop8840"
@@ -175,13 +178,8 @@
     </radialGradient>
   </defs>
   <path
-     inkscape:connector-curvature="0"
-     d="M 37.25,10.2 C 33.57,6.97 28.75,5 23.46,5 14.16,5 6.29,11.06 3.54,19.44 L 8.27,21 c 2.1,-6.39 8.1,-11 15.19,-11 3.91,0 7.46,1.44 10.23,3.77 L 26.46,21 h 18 V 3 Z"
+     style="fill:#1a1a1a;stroke-width:0.5"
+     d="M 22.171267,1.2196216 18.567751,4.819231 c -1.84,-1.615 -4.251484,-2.5996094 -6.896484,-2.5996094 -4.65,0 -8.583984,3.02875 -9.958984,7.21875 l 2.365234,0.7812494 c 1.05,-3.1949994 4.04875,-5.4999994 7.59375,-5.4999994 1.955,0 3.730234,0.7197656 5.115234,1.8847656 l -3.615234,3.6152338 h 9 z M 1.905642,13.936418 v 9 l 3.605469,-3.601562 c 1.84,1.615 4.249531,2.601562 6.894531,2.601562 4.65,0 8.585937,-3.030703 9.960937,-7.220703 l -2.365234,-0.779297 c -1.05,3.195 -4.050703,5.5 -7.595703,5.5 -1.955,0 -3.730234,-0.721719 -5.115235,-1.886719 l 3.615235,-3.613281 z"
      id="path2"
-     style="fill:#1a1a1a" />
-  <path
-     inkscape:connector-curvature="0"
-     d="m 11.138051,39.233729 c 3.68,3.23 8.5,5.2 13.79,5.2 9.3,0 17.17,-6.06 19.92,-14.44 l -4.73,-1.56 c -2.1,6.39 -8.1,11 -15.19,11 -3.91,0 -7.46,-1.44 -10.23,-3.77 l 7.23,-7.23 H 3.9280508 v 18 z"
-     id="path2-3"
-     style="fill:#1a1a1a" />
+     inkscape:connector-curvature="0" />
 </svg>
