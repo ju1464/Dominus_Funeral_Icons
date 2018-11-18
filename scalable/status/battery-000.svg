@@ -13,7 +13,7 @@
    width="48"
    version="1.1"
    id="svg4"
-   sodipodi:docname="battery-000.svg"
+   sodipodi:docname="battery-missing.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata10">
@@ -39,18 +39,31 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="690"
+     inkscape:window-height="672"
      id="namedview6"
      showgrid="false"
-     inkscape:zoom="11.78414"
-     inkscape:cx="21.242267"
+     inkscape:zoom="7.0121422"
+     inkscape:cx="-9.4419915"
      inkscape:cy="24"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4" />
+     inkscape:current-layer="svg4"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-to-guides="true" />
   <path
-     d="M14 4v22h6v18l14-24h-8l8-16z"
+     style="fill:#cccccc;fill-opacity:1"
+     d="M 27.115234 4 L 14 4 L 14 4 L 14 26 L 20 26 L 20 44 L 34 20 L 26 20 L 27.115234 17.769531 "
+     id="path823" />
+  <path
+     style="fill:#cccccc;fill-opacity:1"
+     d="m 33.548375,0.83334329 c 2.885711,0 5.232421,2.34866431 5.232421,5.23437461 0,2.434134 -1.671088,4.4859441 -3.925781,5.0683601 v 2.126953 c 0,0.722604 -0.584035,1.308594 -1.30664,1.308594 -0.722606,0 -1.308594,-0.58599 -1.308594,-1.308594 V 9.9934999 c 0,-0.722606 0.585988,-1.308594 1.308594,-1.308594 1.442855,0 2.615234,-1.174331 2.615234,-2.617188 0,-1.4428549 -1.172379,-2.6171871 -2.615234,-2.6171871 -1.442856,0 -2.617188,1.1743322 -2.617188,2.6171871 0,0.722606 -0.585988,1.308594 -1.308594,1.308594 -0.722605,0 -1.308593,-0.585988 -1.308593,-1.308594 0,-2.8857103 2.348663,-5.23437461 5.234375,-5.23437461 z"
+     id="path814"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#cccccc;fill-opacity:1"
+     d="m 33.548375,15.554047 a 1.6354461,1.6354461 0 0 1 1.634765,1.634765 1.6354461,1.6354461 0 0 1 -1.634765,1.634766 1.6354461,1.6354461 0 0 1 -1.636719,-1.634766 1.6354461,1.6354461 0 0 1 1.636719,-1.634765 z"
      id="path2"
-     style="fill:#cccccc;fill-opacity:0.3019608" />
+     inkscape:connector-curvature="0" />
 </svg>

@@ -95,6 +95,28 @@
          rx="7.5484991"
          ry="7.490562" />
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath827-3">
+      <ellipse
+         style="opacity:1;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.29710582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         id="ellipse829-6"
+         cx="23.62096"
+         cy="24.499601"
+         rx="21.006697"
+         ry="21.050003" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath831-7">
+      <ellipse
+         style="opacity:1;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.29710582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         id="ellipse833-5"
+         cx="23.62096"
+         cy="24.499601"
+         rx="21.006697"
+         ry="21.050003" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -106,40 +128,47 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="690"
+     inkscape:window-height="672"
      id="namedview6"
      showgrid="false"
-     inkscape:zoom="6.2465552"
-     inkscape:cx="-15.170395"
-     inkscape:cy="7.2610008"
+     inkscape:zoom="9.9166667"
+     inkscape:cx="22.285714"
+     inkscape:cy="24"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4"
      showguides="true"
      inkscape:guide-bbox="true" />
   <path
-     style="fill:#cccccc;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1;fill-opacity:0.3019608"
+     style="fill:#cccccc;fill-opacity:0.3019608;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     clip-path="url(#clipPath831)"
+     d="M 47.378556 14.702268 L 52.331659 14.702268 L 47.475747 19.558181 "
+     id="path838" />
+  <path
+     style="fill:#cccccc;fill-opacity:0.3019608;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
      d="M 2.1226471,33.966944 V 45.877353 H 14.033056 Z"
      id="path821"
      inkscape:connector-curvature="0"
-     clip-path="url(#clipPath851)" />
+     clip-path="url(#clipPath851)"
+     transform="rotate(-45,10.026235,19.006336)" />
   <path
-     style="fill:#cccccc;fill-opacity:0.3019608;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="fill:#cccccc;fill-opacity:0.30196078;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="M 2.1226471,26.6951 V 19.119028 L 28.880972,45.877353 H 21.3049 Z"
      id="path826"
      inkscape:connector-curvature="0"
-     clip-path="url(#clipPath835)" />
+     clip-path="url(#clipPath835)"
+     transform="rotate(-45,10.026235,19.006336)" />
   <path
-     style="fill:#cccccc;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:0.3019608"
-     d="M 2.1226471,12.242285 V 5.0158771 L 42.984123,45.877353 h -7.226408 z"
-     id="path828"
      inkscape:connector-curvature="0"
-     clip-path="url(#clipPath831)" />
+     style="fill:#cccccc;fill-opacity:0.30196078;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     clip-path="url(#clipPath831)"
+     d="m -3.4550781,14.703125 5.109375,5.109375 h 17.2050781 8.994141 17.203125 l 5.111328,-5.109375 H 27.853516 18.859375 Z"
+     id="path842" />
   <path
-     style="fill:#cccccc;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:0.3019608"
-     d="m 8.015886,3.449598 h 7.809181 l 28.802588,28.802588 v 7.809181 z"
-     id="path830"
      inkscape:connector-curvature="0"
-     clip-path="url(#clipPath827)" />
+     style="fill:#cccccc;fill-opacity:0.30196078;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     clip-path="url(#clipPath827)"
+     d="M 3.1269531,3.90625 -2.3964844,9.4277344 H 20.998047 25.853516 49.248047 L 43.726562,3.90625 H 25.853516 20.998047 Z"
+     id="path847" />
 </svg>
