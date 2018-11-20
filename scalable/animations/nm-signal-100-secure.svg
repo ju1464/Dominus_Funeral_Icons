@@ -13,7 +13,7 @@
    width="48"
    version="1.1"
    id="svg4"
-   sodipodi:docname="nm-vpn-connecting02.svg"
+   sodipodi:docname="nm-signal-100-secure.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata10">
@@ -128,11 +128,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="719"
+     inkscape:window-height="717"
      id="namedview6"
      showgrid="false"
      inkscape:zoom="3.9111844"
-     inkscape:cx="-21.710023"
+     inkscape:cx="24.056165"
      inkscape:cy="17.101468"
      inkscape:window-x="0"
      inkscape:window-y="25"
@@ -160,20 +160,20 @@
        inkscape:connector-curvature="0"
        id="path826"
        d="M 2.1226471,26.6951 V 19.119028 L 28.880972,45.877353 H 21.3049 Z"
-       style="fill:#cccccc;fill-opacity:0.3019608;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        transform="matrix(0.93614983,0,0,1,1.6516849,0)"
        inkscape:connector-curvature="0"
        id="path842"
        d="M 25.853211,19.81211 H -0.34535193 v 0 L -5.455194,14.702268 h 31.308453"
        clip-path="url(#clipPath831)"
-       style="fill:#cccccc;fill-opacity:0.3019608;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        inkscape:connector-curvature="0"
        id="path847"
        d="M 25.854164,9.4275925 H -2.3955713 v 0 L 3.1263535,3.9056676 H 25.853245"
        clip-path="url(#clipPath827)"
-       style="fill:#cccccc;fill-opacity:0.3019608;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        id="path2-6"
        d="m 34.501083,4.2274357 c -2.286619,0 -4.142426,1.855807 -4.142426,4.142427 v 1.6569703 h -0.828485 l -1.656971,0.0049 v 9.936968 c 0,0.915477 0.741494,1.656971 1.656971,1.656971 h 9.941823 c 0.915476,0 1.647045,-0.741548 1.65697,-1.656971 l 0.105179,-9.902178 -1.762149,-0.03964 H 38.64351 V 8.3699117 c 0,-2.286619 -1.855807,-4.142426 -4.142427,-4.142426 z m 0,1.574446 c 1.41671,0 2.567981,1.151271 2.567981,2.567981 V 10.026833 H 31.933102 V 8.3698627 c 0,-1.41671 1.151271,-2.567981 2.567981,-2.567981 z"
