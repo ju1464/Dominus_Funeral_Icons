@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,14 +39,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="668"
+     inkscape:window-height="714"
      id="namedview6"
      showgrid="false"
-     inkscape:zoom="20.979199"
-     inkscape:cx="42.92346"
-     inkscape:cy="21.245525"
+     inkscape:zoom="5.2447998"
+     inkscape:cx="33.604706"
+     inkscape:cy="28.872127"
      inkscape:window-x="0"
-     inkscape:window-y="31"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4"
      showguides="true"
@@ -54,9 +54,8 @@
      inkscape:snap-smooth-nodes="true" />
   <path
      style="opacity:1;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.6540246;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-     d="m 36.502407,20.739094 c -0.211423,-0.423862 -0.448933,-0.74861 -0.650473,-0.932573 a 13.620302,14.196823 63.492864 0 1 0.911836,1.518566 13.620302,14.196823 63.492864 0 1 0.635948,1.538381 C 37.363249,22.594013 37.246159,22.23031 37.048369,21.83384 Z m 0.897311,2.124374 c 0.02767,0.204376 0.01284,0.360457 -0.06996,0.401749 l -9.883588,4.929312 c -0.191943,0.09574 -0.62637,-0.388692 -0.974092,-1.0859 l -0.54597,-1.09475 c -0.347762,-0.697186 -0.47332,-1.335652 -0.281369,-1.431386 l 9.883593,-4.929314 c 0.07524,-0.03753 0.19366,0.0347 0.32362,0.153329 A 13.620302,14.196823 63.492864 0 0 17.979159,15.472745 13.620302,14.196823 63.492864 0 0 11.354346,33.99771 13.620302,14.196823 63.492864 0 0 30.137412,39.850823 13.620302,14.196823 63.492864 0 0 37.399719,22.863466 Z"
-     id="path817"
-     inkscape:connector-curvature="0" />
+     d="M 35.851952 19.806508 A 13.620302 14.196823 63.492864 0 0 17.979159 15.472745 A 13.620302 14.196823 63.492864 0 0 11.354346 33.99771 A 13.620302 14.196823 63.492864 0 0 30.137412 39.850823 A 13.620302 14.196823 63.492864 0 0 37.399719 22.863466 L 37.399718 22.863468 L 37.399718 22.863468 C 37.427388 23.067844 37.412558 23.223925 37.329758 23.265217 L 27.44617 28.194529 C 27.254227 28.290269 26.8198 27.805837 26.472078 27.108629 L 25.926108 26.013879 C 25.578346 25.316693 25.452788 24.678227 25.644739 24.582493 L 35.528332 19.653179 C 35.603572 19.615649 35.721992 19.687879 35.851952 19.806508 A 13.620302 14.196823 63.492864 0 1 35.851952 19.806508 "
+     id="path819" />
   <path
      inkscape:connector-curvature="0"
      style="color:#000000;opacity:1;fill:#cccccc;stroke-width:3.50006557;fill-opacity:1"
