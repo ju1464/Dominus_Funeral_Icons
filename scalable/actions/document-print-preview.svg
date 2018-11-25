@@ -39,34 +39,33 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="690"
+     inkscape:window-height="717"
      id="namedview12"
      showgrid="false"
-     inkscape:zoom="20.625"
-     inkscape:cx="12"
-     inkscape:cy="12"
+     inkscape:zoom="7.2920387"
+     inkscape:cx="2.5212121"
+     inkscape:cy="3.7718484"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      inkscape:current-layer="g4524" />
   <g
      id="g4524"
      transform="translate(0,-24)">
     <g
-       id="g4528"
-       transform="matrix(0.5,0,0,0.5,-0.87758297,23.609677)">
+       id="g819">
       <path
-         style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:5.33300018;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
-         d="M 12.1875,2 C 12.083422,2 12,2.0834217 12,2.1875 v 7.625 C 12,9.9165783 12.083422,10 12.1875,10 h 23.625 C 35.916578,10 36,9.9165783 36,9.8125 V 2.1875 C 36,2.0834217 35.916578,2 35.8125,2 Z m -8,10.203125 C 4.083422,12.203125 4,12.286545 4,12.390625 V 29.8125 C 4,29.916578 4.08342,30 4.1875,30 h 8.027344 V 28.873047 H 30.386719 A 5.9690146,5.9387503 0 0 1 36.238281,24.097656 5.9690146,5.9387503 0 0 1 42.205078,30 h 1.742188 c 0.104078,0 0.1875,-0.08342 0.1875,-0.1875 V 12.390625 c 0,-0.104078 -0.08342,-0.1875 -0.1875,-0.1875 z M 42.205078,30 h -6.177734 v 5.964844 a 5.9690146,5.9387503 0 0 0 0.210937,0.0098 5.9690146,5.9387503 0 0 0 5.96875,-5.9375 A 5.9690146,5.9387503 0 0 0 42.205078,30 Z m -6.177734,5.964844 A 5.9690146,5.9387503 0 0 1 30.269531,30.037109 5.9690146,5.9387503 0 0 1 30.271484,30 h -18.05664 v 7.927734 h 23.8125 z M 30.271484,30 h 5.75586 V 28.873047 H 30.386719 A 5.9690146,5.9387503 0 0 0 30.271484,30 Z m 6.923828,-15.152344 a 2.7711864,2.7711864 0 0 1 2.771485,2.771485 2.7711864,2.7711864 0 0 1 -2.771485,2.771484 2.7711864,2.7711864 0 0 1 -2.771484,-2.771484 2.7711864,2.7711864 0 0 1 2.771484,-2.771485 z"
+         style="opacity:1;fill:#333333;fill-opacity:1;stroke:none;stroke-width:2.66650009;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+         d="m 5.216167,24.609677 c -0.052039,0 -0.09375,0.04171 -0.09375,0.09375 v 3.8125 c 0,0.05204 0.041711,0.09375 0.09375,0.09375 h 11.8125 c 0.05204,0 0.09375,-0.04171 0.09375,-0.09375 v -3.8125 c 0,-0.05204 -0.04171,-0.09375 -0.09375,-0.09375 z m -4,5.101563 c -0.052039,0 -0.09375,0.04171 -0.09375,0.09375 v 8.710937 c 0,0.05204 0.04171,0.09375 0.09375,0.09375 H 5.229839 V 38.0462 h 9.085938 a 2.9845073,2.9693751 0 0 1 2.925781,-2.387695 2.9845073,2.9693751 0 0 1 2.983398,2.951172 h 0.871094 c 0.05204,0 0.09375,-0.04171 0.09375,-0.09375 V 29.80499 c 0,-0.05204 -0.04171,-0.09375 -0.09375,-0.09375 z m 19.008789,8.898437 h -3.088867 v 2.982422 a 2.9845073,2.9693751 0 0 0 0.105469,0.0049 2.9845073,2.9693751 0 0 0 2.984375,-2.96875 2.9845073,2.9693751 0 0 0 -9.77e-4,-0.01857 z m -3.088867,2.982422 a 2.9845073,2.9693751 0 0 1 -2.878906,-2.963868 2.9845073,2.9693751 0 0 1 9.76e-4,-0.01855 h -9.02832 v 3.963867 h 11.90625 z m -2.87793,-2.982422 h 2.87793 V 38.0462 h -2.820312 a 2.9845073,2.9693751 0 0 0 -0.05762,0.563477 z m 3.461914,-7.576172 a 1.3855932,1.3855932 0 0 1 1.385743,1.385742 1.3855932,1.3855932 0 0 1 -1.385743,1.385743 1.3855932,1.3855932 0 0 1 -1.385742,-1.385743 1.3855932,1.3855932 0 0 1 1.385742,-1.385742 z"
          id="rect812"
          inkscape:connector-curvature="0" />
       <rect
-         style="opacity:1;fill:none;fill-opacity:1;stroke:#1a1a1a;stroke-width:3.03299999;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#333333;stroke-width:1.5165;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
          id="rect880"
-         width="0.20338982"
-         height="12"
-         x="16.864981"
-         y="50.16399"
+         width="0.10169491"
+         height="6"
+         x="-3.9726007"
+         y="45.189224"
          transform="rotate(-29.543646)" />
     </g>
   </g>

@@ -37,14 +37,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="690"
+     inkscape:window-height="717"
      id="namedview25"
      showgrid="false"
      inkscape:zoom="20.625"
-     inkscape:cx="12"
+     inkscape:cx="11.151515"
      inkscape:cy="12"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2515"
      showguides="true"
@@ -128,28 +128,28 @@
   <g
      id="g14"
      transform="matrix(0.04503139,0,0,0.0450314,0.52607678,0.58145457)"
-     style="fill:#1a1a1a">
+     style="fill:#333333">
     <g
        id="g12"
-       style="fill:#1a1a1a">
+       style="fill:#333333">
       <g
          id="g10"
-         style="fill:#1a1a1a">
+         style="fill:#333333">
         <g
            id="g8"
-           style="fill:#1a1a1a">
+           style="fill:#333333">
           <path
              inkscape:connector-curvature="0"
-             style="fill:#1a1a1a"
+             style="fill:#333333"
              d="M 254.26,0 C 113.845,0 0,113.845 0,254.26 0,394.675 113.845,508.52 254.26,508.52 394.675,508.52 508.52,394.675 508.52,254.26 508.52,113.845 394.675,0 254.26,0 Z m 0,476.737 c -122.68,0 -222.477,-99.829 -222.477,-222.477 0,-122.68 99.797,-222.477 222.477,-222.477 122.649,0 222.477,99.797 222.477,222.477 0,122.648 -99.829,222.477 -222.477,222.477 z"
              id="path2-3" />
           <path
              inkscape:connector-curvature="0"
-             style="fill:#1a1a1a"
+             style="fill:#333333"
              d="m 254.26,95.347 c -17.544,0 -31.782,14.239 -31.782,31.782 v 158.912 c 0,17.544 14.239,31.782 31.782,31.782 17.543,0 31.782,-14.239 31.782,-31.782 V 127.13 c 0,-17.544 -14.238,-31.783 -31.782,-31.783 z"
              id="path4" />
           <circle
-             style="fill:#1a1a1a"
+             style="fill:#333333"
              cx="254.25999"
              cy="380.88101"
              r="31.782"

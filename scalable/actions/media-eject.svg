@@ -7,11 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 48 48"
+   viewBox="0 0 24 24"
    version="1.1"
    id="svg4"
    sodipodi:docname="media-eject.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   width="24"
+   height="24">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -20,6 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -34,22 +37,20 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
+     inkscape:window-width="1366"
+     inkscape:window-height="717"
      id="namedview6"
      showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="24"
-     inkscape:cy="24"
+     inkscape:zoom="22.5"
+     inkscape:cx="12"
+     inkscape:cy="12"
      inkscape:window-x="0"
-     inkscape:window-y="28"
-     inkscape:window-maximized="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg4" />
   <path
-     color="#000"
-     d="m224 605h-36v6h36m-18-31c-.798 0-1.6.267-2.156.844l-15 15c-.469.477-.772 1.116-.844 1.781v.375 3h36v-3-.375c-.072-.666-.375-1.304-.844-1.781l-15-15c-.557-.576-1.358-.844-2.156-.844z"
-     fill="#000000"
-     transform="translate(-182 -571)"
-     id="path2"
-     style="fill:#1a1a1a" />
+     style="fill:#333333;stroke-width:0.68061405"
+     d="m 12,4.25 -9,10.5 h 18 z m -9,12.5 v 3 h 18 v -3 z"
+     id="path877"
+     inkscape:connector-curvature="0" />
 </svg>

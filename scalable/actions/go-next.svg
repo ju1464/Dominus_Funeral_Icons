@@ -39,21 +39,19 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="690"
+     inkscape:window-height="717"
      id="namedview6"
      showgrid="false"
-     inkscape:zoom="20.625"
+     inkscape:zoom="22.5"
      inkscape:cx="12"
      inkscape:cy="12"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4"
-     showguides="true"
-     inkscape:guide-bbox="true" />
+     inkscape:current-layer="svg4" />
   <path
-     d="m 11.963637,4.0242423 -1.415,1.415 5.585,5.5849997 H 3.9636369 v 2 H 16.133637 l -5.585,5.585 1.415,1.415 8,-8 z"
+     d="m 8.2925,7.415 4.585,4.585 -4.585,4.585 1.415,1.415 6,-6 -6,-6 z"
      id="path2"
-     style="fill:#1a1a1a;stroke-width:0.5"
+     style="fill:#333333;stroke-width:0.5"
      inkscape:connector-curvature="0" />
 </svg>
