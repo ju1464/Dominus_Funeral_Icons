@@ -16,7 +16,7 @@
    y="0px"
    viewBox="0 0 48 48"
    xml:space="preserve"
-   sodipodi:docname="accessories-text-editor.svg"
+   sodipodi:docname="leafpad.svg"
    width="48"
    height="48"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
@@ -234,8 +234,8 @@
    showgrid="false"
    showguides="true"
    inkscape:guide-bbox="true"
-   inkscape:zoom="5.3125"
-   inkscape:cx="-14.117647"
+   inkscape:zoom="7.5130096"
+   inkscape:cx="-2.9532465"
    inkscape:cy="24"
    inkscape:window-x="0"
    inkscape:window-y="25"
@@ -304,10 +304,16 @@
    transform="translate(0,-464)">
 </g>
 <path
-   style="fill:#a51d1e;stroke-width:0.0924025"
+   style="fill:#ff2a2a;stroke-width:0.0924025"
    d="m 24.000975,0.3457035 c -5.833461,0 -10.522199,1.1203776 -13.935547,3.3320313 -4.101193,2.6574037 -6.269532,6.9015122 -6.269532,12.2714832 0,7.226706 5.806266,16.88549 7.585938,19.673828 2.031747,3.183082 4.250107,6.079783 6.246094,8.15625 2.542362,2.644284 4.56815,3.875 6.373047,3.875 1.804991,0 3.829009,-1.230625 6.371093,-3.875 1.995894,-2.076376 4.214348,-4.973077 6.246094,-8.15625 1.779672,-2.788246 7.585942,-12.447122 7.585942,-19.673827 9e-5,-5.369879 -2.16621,-9.6139883 -6.267582,-12.2714842 C 34.523358,1.4660811 29.834345,0.3457035 24.000975,0.3457035 Z"
    id="path833"
-   inkscape:connector-curvature="0" /><path
+   inkscape:connector-curvature="0" /><ellipse
+   style="opacity:1;fill:#ffaaaa;fill-opacity:0.77480918;stroke:none;stroke-width:1.25580263"
+   id="path888"
+   cx="24"
+   cy="20"
+   rx="12.305408"
+   ry="12.078987" /><path
    style="fill:url(#linearGradient1045);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.46"
    d="m 31.623047,42.144531 c 1.654038,-1.905983 3.369625,-3.976327 4.994141,-6.521484 0.889836,-1.394123 2.786912,-4.505287 4.460932,-8.171875 0.83702,-1.833294 1.61927,-3.806143 2.19141,-5.771484 0.57215,-1.965342 0.93359,-3.923793 0.93359,-5.730469 3e-5,-1.248115 -0.1419,-2.420323 -0.37304,-3.541016 L 31.814453,8.7363281 12.695312,32.138672 Z"
    id="path1019"
