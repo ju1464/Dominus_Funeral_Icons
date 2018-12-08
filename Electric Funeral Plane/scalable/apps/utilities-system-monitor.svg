@@ -150,7 +150,7 @@
    showgrid="false"
    showguides="true"
    inkscape:guide-bbox="true"
-   inkscape:zoom="3.7565048"
+   inkscape:zoom="10.625"
    inkscape:cx="24"
    inkscape:cy="24"
    inkscape:window-x="0"
@@ -221,15 +221,15 @@
    transform="translate(0,-464)">
 </g>
 <g
-   id="g993"><path
+   id="g862"><path
      id="path850"
      d="m 24.000976,0.3457035 c -5.833461,0 -10.522198,1.1203776 -13.935546,3.3320313 -4.1011933,2.6574037 -6.2695315,6.9015122 -6.2695315,12.2714832 0,7.226706 5.8062658,16.88549 7.5859375,19.673828 2.031747,3.183082 4.250107,6.079783 6.246093,8.15625 2.542362,2.644284 4.56815,3.875 6.373047,3.875 1.804991,0 3.829009,-1.230625 6.371093,-3.875 1.995894,-2.076376 4.214349,-4.973077 6.246094,-8.15625 C 38.397835,32.8348 44.204101,23.175924 44.204101,15.949219 44.204193,10.57934 42.037899,6.3352307 37.936523,3.6777348 34.523359,1.4660811 29.834346,0.3457035 24.000976,0.3457035 Z"
-     style="fill:#440055;stroke-width:0.0924025"
+     style="fill:#5d536c;stroke-width:0.0924025"
      inkscape:connector-curvature="0" /><path
      inkscape:connector-curvature="0"
      id="path961"
      d="m 30.919922,43.0625 c 1.853296,-2.021656 3.844065,-4.53601 5.697266,-7.439453 0.889835,-1.394123 2.786912,-4.505287 4.460932,-8.171875 0.83702,-1.833294 1.61927,-3.806143 2.19141,-5.771484 0.15853,-0.544541 0.13468,-1.047464 0.25781,-1.587891 L 41.31836,17.882812 28.464844,18.484375 27.859375,19.199219 22.871094,14.210938 22.503906,14.509766 15.90625,8.09375 13.564453,18.484375 6.681641,18.824219 Z"
-     style="fill:url(#linearGradient969);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.65" /><path
+     style="opacity:0.65;fill:url(#linearGradient969);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" /><path
      id="path3477"
      d="m 7.0350063,18.483404 h 6.5288327 l 1.986742,-9.933711 3.973486,14.900569 2.980112,-8.940344 2.980113,5.960228 2.980113,-1.986742 h 12.500589"
      style="fill:none;stroke:#ffffff;stroke-width:0.99337113px;stroke-linecap:round;stroke-linejoin:round"
