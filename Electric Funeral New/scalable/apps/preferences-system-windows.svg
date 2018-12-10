@@ -16,7 +16,7 @@
    y="0px"
    viewBox="0 0 48 48"
    xml:space="preserve"
-   sodipodi:docname="preferences-system-windows.svg"
+   sodipodi:docname="xfwm4.svg"
    width="48"
    height="48"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
@@ -52,36 +52,13 @@
        id="rect1445"
        style="fill:#4dc7c9;fill-opacity:1;stroke:none;stroke-width:0.19905733;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0" /></clipPath><linearGradient
      inkscape:collect="always"
-     xlink:href="#linearGradient847"
+     xlink:href="#linearGradient903"
      id="linearGradient844"
      x1="16"
      y1="37.082352"
      x2="40.376472"
      y2="6.4941177"
      gradientUnits="userSpaceOnUse" /><linearGradient
-     inkscape:collect="always"
-     id="linearGradient847"><stop
-       style="stop-color:#ff2a2a;stop-opacity:1"
-       offset="0"
-       id="stop843" /><stop
-       id="stop858"
-       offset="0.10178765"
-       style="stop-color:#ff5555;stop-opacity:1" /><stop
-       style="stop-color:#ff4242;stop-opacity:1;"
-       offset="0.30141535"
-       id="stop850" /><stop
-       id="stop852"
-       offset="0.41550219"
-       style="stop-color:#ff3636;stop-opacity:1;" /><stop
-       style="stop-color:#ff2a2a;stop-opacity:1"
-       offset="0.53681529"
-       id="stop848" /><stop
-       style="stop-color:#ff2a2a;stop-opacity:1"
-       offset="0.67140329"
-       id="stop846" /><stop
-       style="stop-color:#c83737;stop-opacity:1"
-       offset="1"
-       id="stop845" /></linearGradient><linearGradient
      x1="24"
      y1="13"
      x2="24"
@@ -288,7 +265,7 @@
    showgrid="false"
    showguides="true"
    inkscape:guide-bbox="true"
-   inkscape:zoom="3.7565048"
+   inkscape:zoom="10.625"
    inkscape:cx="24"
    inkscape:cy="24"
    inkscape:window-x="0"
@@ -360,7 +337,7 @@
    transform="translate(0,-464)">
 </g>
 <g
-   id="g918"><path
+   id="g914"><path
      inkscape:connector-curvature="0"
      id="path852-3"
      d="m 24.000977,0.3457035 c -5.833461,0 -10.522199,1.120377 -13.935547,3.332031 -4.101192,2.657404 -6.269531,6.9015125 -6.269531,12.2714835 0,7.226706 5.806266,16.885489 7.585937,19.673828 2.031747,3.183082 4.250107,6.079783 6.246094,8.15625 2.542362,2.644284 4.56815,3.875 6.373047,3.875 1.804991,0 3.829009,-1.230626 6.371093,-3.875 1.995894,-2.076377 4.214348,-4.973078 6.246094,-8.15625 1.779672,-2.788246 7.585937,-12.447122 7.585937,-19.673826 9e-5,-5.369879 -2.1662,-9.6139895 -6.267577,-12.2714855 -3.413164,-2.211654 -8.102177,-3.332031 -13.935547,-3.332031 z"
@@ -373,7 +350,7 @@
      d="m 36.886715,3.0703134 c 4.03526,2.7822369 6.16992,7.1055606 6.16992,12.5390616 0,7.532221 -6.05134,17.599643 -7.906248,20.505859 -2.117641,3.317649 -4.429399,6.335749 -6.509766,8.5 -1.176879,1.224059 -2.242904,2.141263 -3.234375,2.800782 1.448325,-0.471848 3.061552,-1.657125 4.964844,-3.636719 1.995986,-2.076468 4.214347,-4.973169 6.246094,-8.15625 1.779672,-2.788338 7.585941,-12.447122 7.585941,-19.673828 0,-5.36997 -2.16834,-9.6140797 -6.269535,-12.2714837 C 37.60021,3.4617238 37.244307,3.2654776 36.886715,3.0703134 Z M 11.148434,3.1074228 C 10.790842,3.302587 10.434939,3.4988332 10.101559,3.7148447 6.000366,6.3722487 3.832027,10.616358 3.832027,15.986328 c 0,7.226706 5.806266,16.88549 7.585938,19.673828 2.031747,3.183081 4.250108,6.079782 6.246094,8.15625 1.903292,1.979594 3.516519,3.164871 4.964844,3.636719 -0.991472,-0.659519 -2.057497,-1.576722 -3.234376,-2.800781 -2.080366,-2.164252 -4.392124,-5.182352 -6.509765,-8.5 -1.854908,-2.906216 -7.90625,-12.973639 -7.90625,-20.50586 0,-5.433501 2.134663,-9.7568243 6.169922,-12.5390612 z"
      style="opacity:0.2;fill:#000000;stroke-width:0.0924025"
      inkscape:connector-curvature="0" /><rect
-     style="fill:url(#linearGradient5593-9-0-2);fill-opacity:1.0;stroke:none;stroke-width:0.63113606;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:url(#linearGradient5593-9-0-2);fill-opacity:1;stroke:none;stroke-width:0.63113606;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect1887-0"
      y="6.4594712"
      x="17.721994"

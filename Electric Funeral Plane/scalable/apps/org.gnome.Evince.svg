@@ -27,7 +27,7 @@
          offset="0"
          id="stop899" />
       <stop
-         style="stop-color:#737373;stop-opacity:0;"
+         style="stop-color:#0e0000;stop-opacity:0"
          offset="1"
          id="stop901" />
     </linearGradient>
@@ -83,7 +83,7 @@
      id="layer1"
      transform="translate(0,-284.3)">
     <g
-       id="g834">
+       id="g835">
       <path
          inkscape:connector-curvature="0"
          id="path852-3"

@@ -26,13 +26,16 @@
    id="defs39"><linearGradient
      inkscape:collect="always"
      id="linearGradient892"><stop
-       style="stop-color:#93c586;stop-opacity:1"
+       style="stop-color:#5f8248;stop-opacity:1"
        offset="0"
        id="stop887" /><stop
        id="stop919"
-       offset="0.69059765"
-       style="stop-color:#b7e1b7;stop-opacity:1" /><stop
-       style="stop-color:#a5f6d6;stop-opacity:1"
+       offset="0.4032369"
+       style="stop-color:#78aa50;stop-opacity:1" /><stop
+       style="stop-color:#a0fa64;stop-opacity:1"
+       offset="0.83893555"
+       id="stop902" /><stop
+       style="stop-color:#aade87;stop-opacity:1"
        offset="1"
        id="stop890" /></linearGradient><linearGradient
      inkscape:collect="always"
@@ -41,7 +44,7 @@
        offset="0"
        id="stop852" /><stop
        id="stop860"
-       offset="0.51568496"
+       offset="0.41421065"
        style="stop-color:#d8d8d8;stop-opacity:0.99607843;" /><stop
        style="stop-color:#000000;stop-opacity:1"
        offset="1"
@@ -102,13 +105,13 @@
      fx="23.99457"
      fy="17.047453"
      r="9.225586"
-     gradientTransform="matrix(1.9389749,0.00925654,-0.01021948,2.1405942,-22.350654,-20.08488)"
+     gradientTransform="matrix(2.4139754,0.01779823,-0.01578289,2.1405604,-33.653243,-20.289259)"
      gradientUnits="userSpaceOnUse" /><linearGradient
      inkscape:collect="always"
      xlink:href="#linearGradient892"
      id="linearGradient894"
-     x1="23.712891"
-     y1="0.49414062"
+     x1="23.807009"
+     y1="-1.8588005"
      x2="23.710939"
      y2="47.248047"
      gradientUnits="userSpaceOnUse" /></defs><sodipodi:namedview
@@ -126,7 +129,7 @@
    showgrid="false"
    showguides="true"
    inkscape:guide-bbox="true"
-   inkscape:zoom="2.65625"
+   inkscape:zoom="7.4895833"
    inkscape:cx="24"
    inkscape:cy="24"
    inkscape:window-x="0"
@@ -198,7 +201,7 @@
    transform="translate(0,-464)">
 </g>
 <g
-   id="g880"><path
+   id="g884"><path
      inkscape:connector-curvature="0"
      id="path24-3-6-3"
      d="m 23.712891,0.49414062 c -5.833461,0 -10.522199,1.12037708 -13.935547,3.33203108 -4.101193,2.657405 -6.269531,6.9015133 -6.269531,12.2714843 0,7.226706 5.806265,16.88549 7.585937,19.673828 2.031747,3.183081 4.250107,6.079782 6.246094,8.15625 2.542362,2.644283 4.56815,3.875 6.373047,3.875 1.804991,0 3.829009,-1.230625 6.371093,-3.875 1.995894,-2.076376 4.214348,-4.973077 6.246094,-8.15625 C 38.10975,32.983238 43.916016,23.324362 43.916016,16.097656 43.916108,10.727777 41.749814,6.4836687 37.648438,3.8261717 34.235274,1.6145177 29.546261,0.49414062 23.712891,0.49414062 Z"
