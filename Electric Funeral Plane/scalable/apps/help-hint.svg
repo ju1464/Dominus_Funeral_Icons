@@ -20,16 +20,16 @@
   <defs
      id="defs823">
     <linearGradient
-       id="linearGradient928"
-       inkscape:collect="always">
+       inkscape:collect="always"
+       id="linearGradient841">
       <stop
-         id="stop924"
+         style="stop-color:#cccccc;stop-opacity:1"
          offset="0"
-         style="stop-color:#808080;stop-opacity:1" />
+         id="stop837" />
       <stop
-         id="stop926"
+         style="stop-color:#ffffff;stop-opacity:1"
          offset="1"
-         style="stop-color:#c8beb7;stop-opacity:1" />
+         id="stop839" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -54,13 +54,13 @@
        y2="294.88583" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient928"
-       id="linearGradient922"
+       xlink:href="#linearGradient841"
+       id="linearGradient843"
+       gradientUnits="userSpaceOnUse"
        x1="7.2838235"
        y1="289.79709"
        x2="5.5406861"
-       y2="289.79709"
-       gradientUnits="userSpaceOnUse" />
+       y2="289.79709" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -95,7 +95,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -105,7 +105,7 @@
      id="layer1"
      transform="translate(0,-284.3)">
     <g
-       id="g972">
+       id="g851">
       <path
          id="path868"
          d="m 6.3502583,284.39147 c -1.543437,0 -2.7839977,0.29643 -3.6871137,0.8816 -1.085107,0.7031 -1.658813,1.82603 -1.658813,3.24683 0,1.91207 1.536241,4.46762 2.007113,5.20537 0.537566,0.84219 1.124507,1.60861 1.652612,2.158 0.6726667,0.69964 1.2086557,1.02527 1.6862017,1.02527 0.477571,0 1.013092,-0.32561 1.685685,-1.02527 0.52808,-0.54937 1.115047,-1.31579 1.652612,-2.158 0.4708717,-0.73773 2.0071127,-3.2933 2.0071127,-5.20537 2.4e-5,-1.42078 -0.573141,-2.5437 -1.658296,-3.24683 -0.9030667,-0.58517 -2.1437007,-0.8816 -3.6871137,-0.8816 z"
@@ -120,12 +120,12 @@
          inkscape:connector-curvature="0"
          id="path879"
          d="m 7.9343993,295.96957 c 0.03656,-0.0366 0.06441,-0.0474 0.101802,-0.0863 0.52808,-0.54937 1.114531,-1.3158 1.652096,-2.15801 0.235436,-0.36886 0.7373697,-1.19202 1.1802897,-2.16214 0.134068,-0.29364 0.236619,-0.61248 0.350883,-0.92449 l -4.2968957,-4.29689 -1.145149,5.4286 1.04593,1.04594 -0.959114,1.08365 z"
-         style="fill:url(#linearGradient910);fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.6" />
+         style="opacity:0.6;fill:url(#linearGradient910);fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <g
-         style="fill-opacity:1;fill:url(#linearGradient922)"
+         style="fill:url(#linearGradient843);fill-opacity:1;opacity:1"
          id="g914">
         <rect
-           style="opacity:1;fill:url(#linearGradient922);fill-opacity:1.0;stroke:none;stroke-width:0.43241435;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="opacity:1;fill:url(#linearGradient843);fill-opacity:1;stroke:none;stroke-width:0.43241435;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="rect826"
            width="1.5688236"
            height="5.8021569"
@@ -134,7 +134,7 @@
            ry="0.720402" />
         <path
            inkscape:connector-curvature="0"
-           style="fill:url(#linearGradient922);fill-opacity:1.0;stroke-width:0.1389506"
+           style="fill:url(#linearGradient843);fill-opacity:1;stroke-width:0.1389506"
            d="m 6.3469482,292.53197 c -0.168936,6e-4 -0.336086,0.0565 -0.467155,0.17621 -0.176681,0.14516 -0.294043,0.36192 -0.288355,0.59376 -0.01805,0.49633 0.527938,0.88495 0.994255,0.72761 0.45164,-0.11528 0.689845,-0.68271 0.45837,-1.08624 -0.129504,-0.26069 -0.415557,-0.41236 -0.697115,-0.41134 z"
            id="path822-3" />
       </g>
