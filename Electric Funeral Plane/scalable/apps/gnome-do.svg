@@ -111,6 +111,16 @@
          stdDeviation="0.16971434"
          id="feGaussianBlur1102" />
     </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath10670">
+      <path
+         inkscape:connector-curvature="0"
+         style="display:inline;overflow:visible;visibility:visible;opacity:1;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+         d="m -1294.67,-272.64173 c -15.524,0 -27.9469,-12.40342 -27.9469,-27.88714 v -142.52291 c 0,-15.48371 12.4228,-27.88713 27.9469,-27.88713 h 192.4317 c 15.524,0 24.0052,12.40341 24.0052,27.88713 v 142.52291 c 0,15.48372 -12.4228,27.88714 -27.9469,27.88714 z"
+         id="path10672"
+         sodipodi:nodetypes="ccccccccc" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -119,7 +129,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.727042"
+     inkscape:zoom="10.625"
      inkscape:cx="24"
      inkscape:cy="24"
      inkscape:document-units="mm"
@@ -143,7 +153,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
