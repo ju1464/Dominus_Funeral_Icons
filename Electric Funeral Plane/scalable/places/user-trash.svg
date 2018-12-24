@@ -11,8 +11,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   width="64"
-   height="64"
+   width="48"
+   height="48"
    id="svg2453"
    sodipodi:docname="user-trash.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
@@ -26,17 +26,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="719"
+     inkscape:window-height="714"
      id="namedview169"
      showgrid="false"
-     inkscape:zoom="2.8173786"
-     inkscape:cx="32"
-     inkscape:cy="32"
+     inkscape:zoom="10.479167"
+     inkscape:cx="24"
+     inkscape:cy="24"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2453"
-     showguides="true" />
+     showguides="false" />
   <metadata
      id="metadata157">
     <rdf:RDF>
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -665,53 +665,71 @@
        gradientTransform="matrix(-1,0,0,1,-164.71303,28.239477)" />
   </defs>
   <g
-     id="g950">
+     id="g940"
+     transform="matrix(0.74623992,0,0,0.74623992,-0.25077587,0.10919428)">
     <polygon
        id="polygon2"
        points="369.539,0 430.85,185.714 349.477,512 161.256,512 79.883,185.714 141.192,0 "
-       style="fill:#775731;fill-opacity:1"
+       style="fill:#4d341f;fill-opacity:1"
        transform="matrix(0.11408906,0,0,0.11408906,-4.316516,2.9151988)" />
     <polygon
        id="polygon4"
-       points="314.826,467.649 195.905,467.649 126.022,187.433 173.258,44.353 337.474,44.353 384.711,187.433 "
+       points="195.905,467.649 126.022,187.433 173.258,44.353 337.474,44.353 384.711,187.433 314.826,467.649 "
        style="fill:#120b02;fill-opacity:1"
-       transform="matrix(0.12353872,0,0,0.12353872,-6.7296406,0.87254898)" />
+       transform="matrix(0.11408906,0,0,0.11408906,-4.316516,2.9151988)" />
+    <g
+       style="fill:#40271f;fill-opacity:1"
+       id="g12"
+       transform="matrix(0.11408906,0,0,0.11408906,-4.316516,2.9151988)">
+      <polygon
+         id="polygon8"
+         points="126.022,187.433 79.883,185.714 141.192,0 173.258,44.353 "
+         style="fill:#40271f;fill-opacity:1" />
+      <polygon
+         id="polygon10"
+         points="430.85,185.714 384.711,187.433 337.474,44.353 369.539,0 "
+         style="fill:#40271f;fill-opacity:1" />
+    </g>
+    <polygon
+       id="polygon14"
+       points="349.477,512 314.826,467.649 195.905,467.649 161.256,512 "
+       style="fill:#775731;fill-opacity:1"
+       transform="matrix(0.11408906,0,0,0.11408906,-4.316516,2.9151988)" />
     <polygon
        id="polygon2-6"
-       points="141.192,0 369.539,0 430.85,185.714 349.477,512 161.256,512 79.883,185.714 "
-       style="fill:#784421;fill-opacity:1"
+       points="161.256,512 79.883,185.714 141.192,0 369.539,0 430.85,185.714 349.477,512 "
+       style="fill:#4d3926"
        transform="matrix(0.10744096,0.03837647,-0.03837647,0.10744096,20.357356,-4.9293748)" />
     <polygon
        id="polygon4-7"
-       points="314.826,467.649 195.905,467.649 126.022,187.433 173.258,44.353 337.474,44.353 384.711,187.433 "
-       style="fill:#ff7f2a;fill-opacity:1"
+       points="337.474,44.353 384.711,187.433 314.826,467.649 195.905,467.649 126.022,187.433 173.258,44.353 "
+       style="fill:#664b33"
        transform="matrix(0.10744096,0.03837647,-0.03837647,0.10744096,20.357356,-4.9293748)" />
     <path
        inkscape:connector-curvature="0"
        id="path6-5"
        d="m 43.189608,31.399936 -3.298974,-1.17835 -1.112227,3.113854 c -0.201476,0.564065 -0.821784,0.857865 -1.38585,0.656389 -0.564064,-0.201477 -0.857864,-0.821784 -0.656388,-1.385849 l 1.112265,-3.113962 -3.298974,-1.178349 c -0.564065,-0.201477 -0.857866,-0.821783 -0.65639,-1.385849 0.201477,-0.564066 0.821785,-0.857865 1.38585,-0.656389 l 3.298974,1.178349 3.446514,-9.649056 c 0.201477,-0.564066 0.821784,-0.857866 1.385849,-0.656389 0.564065,0.201476 0.857866,0.821783 0.656389,1.385849 l -3.446514,9.649056 3.298974,1.17835 c 0.564065,0.201476 0.857866,0.821783 0.656389,1.385849 -0.201477,0.564066 -0.821823,0.857973 -1.385887,0.656497 z"
-       style="fill:#1a1a1a;stroke-width:0.11408906" />
+       style="fill:#e3dbdb;stroke-width:0.11408906" />
     <g
-       style="fill:#502d16;fill-opacity:1"
        id="g12-3"
        transform="matrix(0.10744096,0.03837647,-0.03837647,0.10744096,20.357356,-4.9293748)">
       <polygon
          id="polygon8-5"
          points="79.883,185.714 141.192,0 173.258,44.353 126.022,187.433 "
-         style="fill:#502d16;fill-opacity:1" />
+         style="fill:#3f2d1f" />
       <polygon
          id="polygon10-6"
          points="384.711,187.433 337.474,44.353 369.539,0 430.85,185.714 "
-         style="fill:#502d16;fill-opacity:1" />
+         style="fill:#3f2d1f" />
     </g>
     <polygon
        id="polygon14-2"
        points="314.826,467.649 195.905,467.649 161.256,512 349.477,512 "
-       style="fill:#d38d5f;fill-opacity:1"
+       style="fill:#77573d"
        transform="matrix(0.10744096,0.03837647,-0.03837647,0.10744096,20.357356,-4.9293748)" />
     <polygon
        id="polygon16-9"
-       points="350.745,512 432.117,185.714 370.808,0 256.634,0 256.634,512 "
+       points="432.117,185.714 370.808,0 256.634,0 256.634,512 350.745,512 "
        style="opacity:0.3;fill:#20272e;enable-background:new"
        transform="matrix(0.10744096,0.03837647,-0.03837647,0.10744096,20.357356,-4.9293748)" />
   </g>
