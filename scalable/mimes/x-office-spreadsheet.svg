@@ -7,13 +7,25 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
    viewBox="0 0 48 48"
-   id="svg38"
-   sodipodi:docname="x-office-spreadsheet.svg"
+   version="1.1"
+   id="svg22"
+   sodipodi:docname="x-office-spreadsheet-1.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata28">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
   <defs
-     id="defs42" />
+     id="defs26" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -25,7 +37,7 @@
      inkscape:pageshadow="2"
      inkscape:window-width="883"
      inkscape:window-height="480"
-     id="namedview40"
+     id="namedview24"
      showgrid="false"
      inkscape:zoom="4.9166667"
      inkscape:cx="4.1694915"
@@ -33,81 +45,42 @@
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg38" />
-  <metadata
-     id="metadata2">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <polygon
-     transform="matrix(.096224 0 0 .09363 -.57346 .031189)"
-     points="79.883 185.71 141.19 0 369.54 0 430.85 185.71 349.48 512 161.26 512"
-     fill="#6f6f91"
-     id="polygon4" />
+     inkscape:current-layer="svg22" />
   <path
-     d="m18.279 43.817-3.3353 4.1525h18.113l-3.3353-4.1525z"
+     fill="#6f6f91"
+     d="M34.98515696.031189l5.89949344 17.3880273-7.82974688 30.5505327H14.94362224L7.11320179 17.4192163 13.01240656.031189z"
+     id="path2" />
+  <path
+     d="M18.279 43.817l-3.3353 4.1525h18.113l-3.3353-4.1525z"
      fill="#9393ac"
-     stroke-width=".09492"
-     id="path6" />
+     id="path4" />
   <g
-     transform="matrix(.79834 0 0 .77683 -1.2953 -.58658)"
      fill="#53536c"
      stroke-width=".12053"
-     id="g14">
+     id="g8">
     <path
-       d="m38.85 57.162 4.1777 5.3457 9.8086-39.328-5.5625 0.20703z"
-       id="path8" />
-    <path
-       d="m10.533 23.18 9.8066 39.328 4.1777-5.3457-8.4238-33.775z"
-       id="path10" />
-    <path
-       d="m17.922 0.79492 3.8652 5.3457h19.793l3.8652-5.3457z"
-       id="path12" />
+       d="M29.720209 43.81857646l3.33522502 4.15270013 7.83059772-30.55117024-4.44076625.16082712zM7.11361522 17.4203394l7.82900104 30.55117024 3.33522502-4.15270013-6.72505649-26.23743325zM13.01254948.0309377l3.08574377 4.15270013h15.80154362L34.98558064.0309377z"
+       id="path6" />
   </g>
   <g
-     transform="matrix(.096224 0 0 .09363 -.57346 .031189)"
      fill="#373748"
-     id="g20">
-    <polygon
-       points="79.883 185.71 141.19 0 173.26 44.353 126.02 187.43"
-       id="polygon16" />
-    <polygon
-       points="384.71 187.43 337.47 44.353 369.54 0 430.85 185.71"
-       id="polygon18" />
+     id="g12">
+    <path
+       d="M7.1132018 17.4192163L13.01240655.031189l3.08590368 4.15277139-4.54562176 13.39629951zM36.44487504 17.5802599L31.89925328 4.18396039 34.98515696.031189l5.89949344 17.3880273z"
+       id="path10" />
   </g>
   <g
-     transform="translate(-.23762 -.95248)"
      fill="#dbdbe3"
-     id="g28">
+     id="g16">
     <path
-       d="m32.827 11.676 0.01416 15.111-4.2685 0.0016-0.01416-15.11z"
-       id="path22" />
-    <path
-       d="m26.591 15.577 0.01259 11.192-4.267 0.0016-0.01416-11.192z"
-       id="path24" />
-    <path
-       d="m16.3 19.531h4.2685l0.01259 7.2631-4.2685 0.0016z"
-       id="path26" />
+       d="M32.58938 10.72352l.01416 15.111-4.2685.0016-.01416-15.11zM26.35338 14.62452l.01259 11.192-4.267.0016-.01416-11.192zM16.06238 18.57852h4.2685l.01259 7.2631-4.2685.0016z"
+       id="path14" />
   </g>
   <g
-     transform="translate(19.667 -2.2832)"
      fill="#1c1c24"
-     id="g36">
+     id="g20">
     <path
-       d="m12.256 12.44 0.01416 15.111-4.2685 0.0016-0.01416-15.11z"
-       id="path30" />
-    <path
-       d="m6.0202 16.341 0.01259 11.192-4.267 0.0016-0.01416-11.192z"
-       id="path32" />
-    <path
-       d="m-4.2705 20.295h4.2685l0.01259 7.2631-4.2685 0.0016z"
-       id="path34" />
+       d="M31.923 10.1568l.01416 15.111-4.2685.0016-.01416-15.11zM25.6872 14.0578l.01259 11.192-4.267.0016-.01416-11.192zM15.3965 18.0118h4.2685l.01259 7.2631-4.2685.0016z"
+       id="path18" />
   </g>
 </svg>

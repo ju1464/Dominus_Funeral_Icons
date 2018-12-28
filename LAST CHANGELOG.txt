@@ -1,0 +1,21 @@
+
+Optimized and cleaned all icons in actions folder.
+Optimized and cleaned all icons in symbolic/actions folder.
+
+	added:  document-properties-symbolic.svg
+		folder-copy-symbolic.svg
+		folder-move-symbolic.svg
+		gtk-preferences-symbolic.svg
+		system-lock-screen-symbolic.svg
+		tab-new-symbolic.svg
+		zoom-best-fit-symbolic.svg
+		zoom-in-symbolic.svg
+		zoom-original-symbolic.svg
+		zoom-out-symbolic.svg
+
+	updated:address-book-new.svg
+		contact-new.svg
+		address-book-new-symbolic.svg
+		contact-new-symbolic.svg
+		exit.svg
+		application-exit-symbolic.svg
