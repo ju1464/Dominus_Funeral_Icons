@@ -48,7 +48,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.4393526"
+     inkscape:zoom="10.520833"
      inkscape:cx="24"
      inkscape:cy="24"
      inkscape:document-units="mm"
@@ -111,36 +111,26 @@
          inkscape:connector-curvature="0" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:4.28850126px;line-height:0.60000002;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#87decd;fill-opacity:1;stroke:none;stroke-width:0.24741352;"
-         x="3.448312"
-         y="288.52737"
-         id="text836"><tspan
+         style="font-style:normal;font-weight:normal;font-size:8.52966309px;line-height:0.60000002;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#80e5ff;fill-opacity:1;stroke:none;stroke-width:0.49209604;"
+         x="3.8955324"
+         y="290.0798"
+         id="text836-4-3"><tspan
            sodipodi:role="line"
-           id="tspan834"
-           x="3.448312"
-           y="288.52737"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.63907766px;line-height:0.60000002;font-family:'XXII Ultimate-Black-Metal';-inkscape-font-specification:'XXII Ultimate-Black-Metal';stroke-width:0.24741352;fill:#87decd;">Electric</tspan><tspan
-           sodipodi:role="line"
-           x="3.448312"
-           y="291.24008"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.63907766px;line-height:0.60000002;font-family:'XXII Ultimate-Black-Metal';-inkscape-font-specification:'XXII Ultimate-Black-Metal';stroke-width:0.24741352;fill:#87decd;"
-           id="tspan838">Funeral</tspan></text>
+           x="3.8955324"
+           y="290.0798"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.24902534px;line-height:0.60000002;font-family:'XXII Ultimate-Black-Metal';-inkscape-font-specification:'XXII Ultimate-Black-Metal';fill:#80e5ff;stroke-width:0.49209604;"
+           id="tspan838-9-6">EF</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:4.28850126px;line-height:0.60000002;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0b2822;fill-opacity:1;stroke:none;stroke-width:0.24741352;"
-         x="3.374306"
-         y="288.53415"
+         style="font-style:normal;font-weight:normal;font-size:8.52966309px;line-height:0.60000002;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0b2822;fill-opacity:1;stroke:none;stroke-width:0.49209604"
+         x="3.8075144"
+         y="290.01492"
          id="text836-4"><tspan
            sodipodi:role="line"
-           id="tspan834-5"
-           x="3.374306"
-           y="288.53415"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.6390779px;line-height:0.60000002;font-family:'XXII Ultimate-Black-Metal';-inkscape-font-specification:'XXII Ultimate-Black-Metal';fill:#0b2822;stroke-width:0.24741352;">Electric</tspan><tspan
-           sodipodi:role="line"
-           x="3.374306"
-           y="291.24686"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.6390779px;line-height:0.60000002;font-family:'XXII Ultimate-Black-Metal';-inkscape-font-specification:'XXII Ultimate-Black-Metal';fill:#0b2822;stroke-width:0.24741352;"
-           id="tspan838-9">Funeral</tspan></text>
+           x="3.8075144"
+           y="290.01492"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.24902534px;line-height:0.60000002;font-family:'XXII Ultimate-Black-Metal';-inkscape-font-specification:'XXII Ultimate-Black-Metal';fill:#0b2822;stroke-width:0.49209604"
+           id="tspan838-9">EF</tspan></text>
     </g>
   </g>
 </svg>
