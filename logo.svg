@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg822"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs816">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient909">
+      <stop
+         style="stop-color:#216778;stop-opacity:1"
+         offset="0"
+         id="stop905" />
+      <stop
+         style="stop-color:#5fbcd3;stop-opacity:1"
+         offset="1"
+         id="stop907" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient909"
+       id="linearGradient911"
+       x1="6.3435984"
+       y1="293.99127"
+       x2="6.2297163"
+       y2="284.35654"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.4393526"
+     inkscape:cx="24"
+     inkscape:cy="24"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g828"
+     showgrid="false"
+     units="px"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-midpoints="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="714"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="true" />
+  <metadata
+     id="metadata819">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-284.29998)">
+    <g
+       id="g828">
+      <path
+         inkscape:connector-curvature="0"
+         id="path877-6"
+         d="m 6.2297163,284.35653 c -1.515538,0.0144 -3.0867147,0.71884 -4.7298927,2.31644 v 0.6204 1.02246 5.67543 h 9.6875494 v -5.67543 h 0.0041 v -1.64286 c -1.5983817,-1.46262 -3.2443167,-2.33279 -4.9619277,-2.31644 z"
+         style="fill:url(#linearGradient911);fill-opacity:1;stroke:none;stroke-width:0.19860323px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <rect
+         x="1.0251139"
+         y="293.98154"
+         style="opacity:1;fill:#164450;fill-opacity:1;stroke-width:0.15927376"
+         width="10.699533"
+         height="1.2745087"
+         id="rect4" />
+      <rect
+         x="-0.028991858"
+         y="295.23206"
+         style="opacity:1;fill:#216778;fill-opacity:1;stroke-width:0.15927376"
+         width="12.757987"
+         height="1.7647533"
+         id="rect2" />
+      <path
+         id="path877"
+         d="m 2.7393677,285.62703 c -0.0068,0.005 -0.013404,0.007 -0.020153,0.0119 -0.4020506,0.29093 -0.8087704,0.63464 -1.2195643,1.03404 v 0.62064 1.02216 5.6658 h -0.47439 v 1.25057 h -1.0541992 v 1.76475 h 3.3904906 v -1.76475 H 2.9631267 v -1.25057 h -0.223759 z m 7.1406493,0.003 v 8.35091 H 9.786483 v 1.25109 H 9.338448 v 1.76475 h 3.390491 v -1.76475 h -1.004073 v -1.25109 h -0.537435 v -5.66528 h 0.0041 v -1.6428 c -0.433208,-0.39641 -0.870876,-0.73931 -1.311549,-1.04283 z"
+         style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.19860323px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:4.28850126px;line-height:0.60000002;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#87decd;fill-opacity:1;stroke:none;stroke-width:0.24741352;"
+         x="3.448312"
+         y="288.52737"
+         id="text836"><tspan
+           sodipodi:role="line"
+           id="tspan834"
+           x="3.448312"
+           y="288.52737"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.63907766px;line-height:0.60000002;font-family:'XXII Ultimate-Black-Metal';-inkscape-font-specification:'XXII Ultimate-Black-Metal';stroke-width:0.24741352;fill:#87decd;">Electric</tspan><tspan
+           sodipodi:role="line"
+           x="3.448312"
+           y="291.24008"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.63907766px;line-height:0.60000002;font-family:'XXII Ultimate-Black-Metal';-inkscape-font-specification:'XXII Ultimate-Black-Metal';stroke-width:0.24741352;fill:#87decd;"
+           id="tspan838">Funeral</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:4.28850126px;line-height:0.60000002;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0b2822;fill-opacity:1;stroke:none;stroke-width:0.24741352;"
+         x="3.374306"
+         y="288.53415"
+         id="text836-4"><tspan
+           sodipodi:role="line"
+           id="tspan834-5"
+           x="3.374306"
+           y="288.53415"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.6390779px;line-height:0.60000002;font-family:'XXII Ultimate-Black-Metal';-inkscape-font-specification:'XXII Ultimate-Black-Metal';fill:#0b2822;stroke-width:0.24741352;">Electric</tspan><tspan
+           sodipodi:role="line"
+           x="3.374306"
+           y="291.24686"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.6390779px;line-height:0.60000002;font-family:'XXII Ultimate-Black-Metal';-inkscape-font-specification:'XXII Ultimate-Black-Metal';fill:#0b2822;stroke-width:0.24741352;"
+           id="tspan838-9">Funeral</tspan></text>
+    </g>
+  </g>
+</svg>
