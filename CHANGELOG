@@ -1,6 +1,13 @@
 
 
-	added:  document-properties-symbolic.svg
+	added:  audio-output-none-panel-symbolic.svg
+		audio-volume-high-panel-symbolic.svg
+		audio-volume-low-panel-symbolic.svg
+		audio-volume-low-zero-panel-symbolic.svg
+		audio-volume-medium-panel-symbolic.svg
+		audio-volume-muted-panel-symbolic.svg
+		audio-volume-zero-panel-symbolic.svg
+		document-properties-symbolic.svg
 		folder-copy-symbolic.svg
 		folder-move-symbolic.svg
 		gtk-preferences-symbolic.svg
