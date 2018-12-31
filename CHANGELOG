@@ -1,4 +1,5 @@
 optimized and cleaned all icon in scalable/actions folder.
+optimized and cleaned all icon in scalable/animations folder.
 
 	added:  audio-output-none-panel-symbolic.svg
 		audio-volume-high-panel-symbolic.svg
@@ -24,3 +25,21 @@ optimized and cleaned all icon in scalable/actions folder.
 		contact-new-symbolic.svg
 		exit.svg
 		application-exit-symbolic.svg
+		bookmark-missing.svg
+		gnome-fs-bookmark-missing.svg
+		stock_delete-bookmark.svg
+		epiphany-bookmarks.svg
+		gnome-fs-bookmark.svg
+		stock_bookmark.svg
+		user-bookmarks.svg
+		bookmark_add.svg
+		bookmark-new.svg
+		bookmarks_list_add.svg
+		stock_add-bookmark.svg
+		stock_help-add-bookmark.svg
+		badge-small.svg
+		keyring-manager.svg
+		password.svg
+		seahorse.svg
+		seahorse-preferences.svg
+		stock_keyring.svg
