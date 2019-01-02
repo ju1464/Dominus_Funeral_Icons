@@ -1,5 +1,7 @@
 optimized and cleaned all icon in scalable/actions folder.
 optimized and cleaned all icon in scalable/animations folder.
+optimized and cleaned all icon in scalable/emblems folder.
+optimized and cleaned all icon in symbolic/actions folder.
 
 	added:  audio-output-none-panel-symbolic.svg
 		audio-volume-high-panel-symbolic.svg
@@ -12,6 +14,7 @@ optimized and cleaned all icon in scalable/animations folder.
 		folder-copy-symbolic.svg
 		folder-move-symbolic.svg
 		gtk-preferences-symbolic.svg
+		klipper.svg
 		system-lock-screen-symbolic.svg
 		tab-new-symbolic.svg
 		zoom-best-fit-symbolic.svg
@@ -20,11 +23,11 @@ optimized and cleaned all icon in scalable/animations folder.
 		zoom-out-symbolic.svg
 
 	updated:address-book-new.svg
-		contact-new.svg
 		address-book-new-symbolic.svg
+		application-exit-symbolic.svg
+		contact-new.svg
 		contact-new-symbolic.svg
 		exit.svg
-		application-exit-symbolic.svg
 		bookmark-missing.svg
 		gnome-fs-bookmark-missing.svg
 		stock_delete-bookmark.svg
