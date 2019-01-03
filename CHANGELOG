@@ -3,7 +3,8 @@ optimized and cleaned all icon in scalable/animations folder.
 optimized and cleaned all icon in scalable/emblems folder.
 optimized and cleaned all icon in symbolic/actions folder.
 
-	added:  audio-output-none-panel-symbolic.svg
+	added:  
+		audio-output-none-panel-symbolic.svg
 		audio-volume-high-panel-symbolic.svg
 		audio-volume-low-panel-symbolic.svg
 		audio-volume-low-zero-panel-symbolic.svg
@@ -21,8 +22,52 @@ optimized and cleaned all icon in symbolic/actions folder.
 		zoom-in-symbolic.svg
 		zoom-original-symbolic.svg
 		zoom-out-symbolic.svg
+		idea.svg
+		idea-ultimate.svg
+		intellij-idea.svg
+		intellij_idea.svg
+		intellij-idea-ce.svg
+		intellij-idea-community.svg
+		intellij-idea-ue-bundled-jre.svg
+		intellij-idea-ultimate.svg
+		intellij-idea-ultimate-edition.svg
+		com.jetbrains.PyCharm-Community.svg
+		pycharm-community.svg
+		pycharm-education.svg
+		pycharm-professional.svg
+		code-insiders.svg
+		code.svg
+		code-oss.svg
+		com.visualstudio.code.oss.svg
+		com.visualstudio.code.svg
+		appcode.svg
+		clion.svg
+		datagrip.svg
+		dotcover.svg
+		dotmemory.svg
+		dotpeek.svg
+		dottrace.svg
+		gogland.svg
+		goland.svg
+		hub.svg
+		intellij.svg
+		jetbrains-toolbox.svg
+		mps.svg
+		phpstorm.svg
+		pycharm.svg
+		resharper.svg
+		resharpercpp.svg
+		rider.svg
+		rubymine.svg
+		teamcity.svg
+		upsource.svg
+		visual-studio-code.svg
+		visual-studio-code-insiders.svg
+		webstorm.svg
+		youtrack.svg
 
-	updated:address-book-new.svg
+	updated:
+		address-book-new.svg
 		address-book-new-symbolic.svg
 		application-exit-symbolic.svg
 		contact-new.svg
