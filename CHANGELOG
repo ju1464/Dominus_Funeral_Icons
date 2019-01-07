@@ -1,100 +1,12 @@
-Improved all icons designs in mimes folder
 
-optimized and cleaned all icon in scalable/actions folder.
-optimized and cleaned all icon in scalable/animations folder.
-optimized and cleaned all icon in scalable/apps folder.
-optimized and cleaned all icon in scalable/emblems folder.
-optimized and cleaned all icon in scalable/mimes folder.
-optimized and cleaned all icon in scalable/places folder.
-optimized and cleaned all icon in symbolic/actions folder.
+
+resize and clean scalable/tools folder.
+optimized and cleaned all icon in scalable/categories folder.
+
 
 	added:  
-		audio-output-none-panel-symbolic.svg
-		audio-volume-high-panel-symbolic.svg
-		audio-volume-low-panel-symbolic.svg
-		audio-volume-low-zero-panel-symbolic.svg
-		audio-volume-medium-panel-symbolic.svg
-		audio-volume-muted-panel-symbolic.svg
-		audio-volume-zero-panel-symbolic.svg
-		document-properties-symbolic.svg
-		folder-copy-symbolic.svg
-		folder-move-symbolic.svg
-		gtk-preferences-symbolic.svg
-		klipper.svg
-		system-lock-screen-symbolic.svg
-		tab-new-symbolic.svg
-		zoom-best-fit-symbolic.svg
-		zoom-in-symbolic.svg
-		zoom-original-symbolic.svg
-		zoom-out-symbolic.svg
-		idea.svg
-		idea-ultimate.svg
-		intellij-idea.svg
-		intellij_idea.svg
-		intellij-idea-ce.svg
-		intellij-idea-community.svg
-		intellij-idea-ue-bundled-jre.svg
-		intellij-idea-ultimate.svg
-		intellij-idea-ultimate-edition.svg
-		com.jetbrains.PyCharm-Community.svg
-		pycharm-community.svg
-		pycharm-education.svg
-		pycharm-professional.svg
-		code-insiders.svg
-		code.svg
-		code-oss.svg
-		com.visualstudio.code.oss.svg
-		com.visualstudio.code.svg
-		appcode.svg
-		clion.svg
-		datagrip.svg
-		dotcover.svg
-		dotmemory.svg
-		dotpeek.svg
-		dottrace.svg
-		gogland.svg
-		goland.svg
-		hub.svg
-		intellij.svg
-		jetbrains-toolbox.svg
-		mps.svg
-		phpstorm.svg
-		pycharm.svg
-		resharper.svg
-		resharpercpp.svg
-		rider.svg
-		rubymine.svg
-		teamcity.svg
-		upsource.svg
-		visual-studio-code.svg
-		visual-studio-code-insiders.svg
-		webstorm.svg
-		youtrack.svg
-		org.gajim.Gajim.svg
-		org.pitivi.Pitivi.svg
+		
+		
 
 	updated:
-		address-book-new.svg
-		address-book-new-symbolic.svg
-		application-exit-symbolic.svg
-		contact-new.svg
-		contact-new-symbolic.svg
-		exit.svg
-		bookmark-missing.svg
-		gnome-fs-bookmark-missing.svg
-		stock_delete-bookmark.svg
-		epiphany-bookmarks.svg
-		gnome-fs-bookmark.svg
-		stock_bookmark.svg
-		user-bookmarks.svg
-		bookmark_add.svg
-		bookmark-new.svg
-		bookmarks_list_add.svg
-		stock_add-bookmark.svg
-		stock_help-add-bookmark.svg
-		badge-small.svg
-		keyring-manager.svg
-		password.svg
-		seahorse.svg
-		seahorse-preferences.svg
-		stock_keyring.svg
+		
