@@ -6,7 +6,7 @@ Inherits=Humanity,Archdroid
 Example=directory-x-normal
 
 #Directory list
-Directories=24/places,scalable/actions,scalable/animations,scalable/apps,scalable/categories,scalable/devices,scalable/emblems,scalable/mimes,scalable/places,scalable/status,scalable/stock,scalable/tools,symbolic/actions,symbolic/categories,symbolic/mimes,symbolic/places,symbolic/status,
+Directories=24/places,scalable/actions,scalable/animations,scalable/apps,scalable/categories,scalable/devices,scalable/emblems,scalable/mimes,scalable/panel,scalable/places,scalable/status,scalable/stock,scalable/tools,symbolic/actions,symbolic/categories,symbolic/mimes,symbolic/panel,symbolic/places,symbolic/status,
 
 [24/places]
 Size=24
@@ -64,6 +64,13 @@ Type=Scalable
 MinSize=16
 MaxSize=512
 
+[scalable/panel]
+Size=24
+Context=Status
+Type=Scalable
+MinSize=8
+MaxSize=512
+
 [scalable/places]
 Size=48
 Context=Places
@@ -86,7 +93,7 @@ MinSize=8
 MaxSize=512
 
 [scalable/tools]
-Size=48
+Size=24
 Context=Actions
 Type=Scalable
 MinSize=8
@@ -113,6 +120,13 @@ Type=Scalable
 MinSize=8
 MaxSize=512
 
+[symbolic/panel]
+Size=24
+Context=Status
+Type=Scalable
+MinSize=8
+MaxSize=512
+
 [symbolic/places]
 Size=24
 Context=Places
@@ -121,7 +135,7 @@ MinSize=8
 MaxSize=512
 
 [symbolic/status]
-Size=48
+Size=24
 Context=Status
 Type=Scalable
 MinSize=8
