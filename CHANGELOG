@@ -1,5 +1,6 @@
 Added dark theme.
 
+added symbolic/apps folder.
 resize and clean 24/places folder.
 resize and clean scalable/tools folder.
 resize and clean symbolic/panel folder.
@@ -16,6 +17,8 @@ optimized and cleaned all icon in symbolic/places folder.
 	auth-sim, printer-network, auth-smartcard, input-dialpad, colorimeter-colorhug, camera-video, audio-input-microphone, gnome-dev-memory, 
 	applications-accessories-symbolic, applications-development-symbolic, applications-electronic-symbolic, applications-internet-symbolic, 
 	applications-office-symbolic, applications-other-symbolic, system, indicator-messages-new, indicator-messages, network-wireless-acquiring, 
+	system-help-symbolic, documentation_section, -symbolic, preferences-desktop-personal-symbolic, preferences-system-symbolic, preferences-other-symbolic, 
+	preferences-desktop-symbolic, 
 		
 
 	updated:
