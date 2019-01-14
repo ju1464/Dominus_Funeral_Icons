@@ -1,26 +1,6 @@
-Added dark theme.
-
-added symbolic/apps folder.
-resize and clean 24/places folder.
-resize and clean scalable/tools folder.
-resize and clean symbolic/panel folder.
-resize and clean symbolic/status folder.
-redesigned and cleaned all icons in scalable/devices folder.
-redesigned and cleaned all icons in scalable/status folder.
-optimized and cleaned all icon in scalable/categories folder.
-optimized and cleaned all icon in symbolic/categories folder.
-optimized and cleaned all icon in symbolic/mimes folder.
-optimized and cleaned all icon in symbolic/places folder.
-
-
-	added:  
-	auth-sim, printer-network, auth-smartcard, input-dialpad, colorimeter-colorhug, camera-video, audio-input-microphone, gnome-dev-memory, 
-	applications-accessories-symbolic, applications-development-symbolic, applications-electronic-symbolic, applications-internet-symbolic, 
-	applications-office-symbolic, applications-other-symbolic, system, indicator-messages-new, indicator-messages, network-wireless-acquiring, 
-	system-help-symbolic, documentation_section, -symbolic, preferences-desktop-personal-symbolic, preferences-system-symbolic, preferences-other-symbolic, 
-	preferences-desktop-symbolic, 
+	added:  folder-videos-symbolic, applications-education, applications-education-symbolic, cs-power, preferences-system-power-management, unity-power-panel, 
+		utilities-energy-monitor, gmpc, itunes, musique, 
 		
 
 	updated:
-	all wifi-connection icons, application-x-executable-symbolic, dialog-password-symbolic, 
 		
