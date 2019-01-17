@@ -16,7 +16,7 @@
 		cuckoo, deepin-image-viewer, edile, geeqie, gnome-clocks, gwenview, hourglass, juffed, kate, kwrite, lximage, lximage-qt, medit, muon, notepad, 
 		org.gnome.clocks, org.gnome.Clocks, org.gnome.eog, org.gnome.gedit, org.kde.plasma.analogclock, org.kde.plasma.katesessions, org.kde.plasma.mediaframe, 
 		org.photoqt.PhotoQt, photoqt, pix, preferences-composer, qtikz, wine-notepad, xed, xedit, xviewer, yast-timezone, accessories-notes, gnome-wm, 
-		indicator-privacy, autokey, gnome-characters, indicator-keylock, org.gnome.Characters. 
+		indicator-privacy, autokey, gnome-characters, indicator-keylock, org.gnome.Characters, fill-rule-even-odd, fill-rule-nonzero.
 		
 
 	updated:
