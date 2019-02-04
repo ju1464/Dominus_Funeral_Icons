@@ -1,27 +1,7 @@
 	added:  
-		folder-videos-symbolic, applications-education, applications-education-symbolic, cs-power, preferences-system-power-management, unity-power-panel, 
-		utilities-energy-monitor, gmpc, itunes, musique, deepin-music, gnome-music, guayadeque, org.gnome.music, org.gnome.Music, org.videolan.VLC, apper, 
-		appgrid, dnfdragora, gnome-hearts, mintupdate-release-upgrade, org.kde.muonnotifier, yast-sw_single, disk-burner, cumulus, gis-weather, keepass2, 
-		keepassx, keepassx2, org.gnome.weather.application, org.gnome.Weather.Application, org.gnome.weather, org.kde.plasma.weather, org.kde.weatherWidget, 
-		weather-widget, kpat, org.gnome.Aisleriot, org.gnome.mahjongg, org.gnome.Mahjongg, utilities-log-viewer, cs-date-time, gnome-baker, GnomeBaker, 
-		unity-datetime-panel, asounder, asunder, audex, gnome-contacts, k3b, kmines, org.mozilla.Thunderbird, ripperx, thunderbird-icon, thunderbird-mozilla-build, 
-		ksudoku, multimedia-photo-viewer, juk, keepass, org.gnome.Weather, weather, deepin-appstore, deepin-software-center, gnome-software, kmahjongg, 
-		kshisen, lubuntu-software-center, mintinstall, muondiscover, org.gnome.Contacts, org.gnome.software, plasmadiscover, software, software-center, 
-		softwarecenter-debian, softwarecenter-ubuntu, software-store, soundkonverter, ubuntu-kylin-software-center, yast-software, korg-todo, kpatience, lskat, 
-		mupdf, okular, org.kde.okular, org.pwmt.zathura, xreader, zathura, basket, bijiben, cs-desklets, document-viewer, footnote, indicator-stickynotes, 
-		knotes, org.gnome.bijiben, org.gnome.Bijiben, org.gnome.Gnote, org.kde.plasma.notes, qpdfview, xpad, gnome-documents, org.gnome.documents, org.gnome.Documents, 
-		wordpad, software-properties-mint, yast-sw_source, activity-log-manager, akregator, gnome-logs, kblogger, korg-journal, logview, plv, accessories-screenshot, 
-		deepin-screenshot, gnome-panel-screenshoot, gnome-panel-screenshot, kscreengenie, ksnapshot, screengrab, spectacle, artha, dictionary, gnome-dictionary, 
-		goldendict, org.gnome.Dictionary, palaura, 1E64_notepad.0, accessories-clock, alarm-clock, bottles_notepad, chrome-mmfbcljfglbokpmkimbfghdkjmjhdgbg-Default, 
-		cuckoo, deepin-image-viewer, edile, geeqie, gnome-clocks, gwenview, hourglass, juffed, kate, kwrite, lximage, lximage-qt, medit, muon, notepad, 
-		org.gnome.clocks, org.gnome.Clocks, org.gnome.eog, org.gnome.gedit, org.kde.plasma.analogclock, org.kde.plasma.katesessions, org.kde.plasma.mediaframe, 
-		org.photoqt.PhotoQt, photoqt, pix, preferences-composer, qtikz, wine-notepad, xed, xedit, xviewer, yast-timezone, accessories-notes, gnome-wm, 
-		indicator-privacy, autokey, gnome-characters, indicator-keylock, org.gnome.Characters, fill-rule-even-odd, fill-rule-nonzero.
-		
+		tor, tor-browser, torbrowser, akonadi, akonadiconsole, akonaditray, amarok, amarok2, amarok-icon, 
 
+	
 	updated:
-		boot, gnome-session-halt, gnome-shutdown, system-shut-down, system-shutdown, xfce4-system-exit, xfce-system-exit, xfsm-shutdown, gnome-session-reboot, 
-		reboot-notifier, system-reboot, system-restart, un-reboot, xfsm-reboot, gnome-session-switch, system-switch-user, xfsm-switch, gnome-session-sleep, 
-		gnome-session-suspend, sleep, system-suspend, xfsm-suspend, gnome-log-out, gnome-logout, gnome-session-logout, system-log-out, system-logout, 
-		xfsm-logout, gnome-session-hebirnate, gnome-session-hibernate, gpm-hibernate, system-hibernate, system-suspend-hibernate, xfsm-hibernate.
+		akregator, gnome-news, internet-feed-reader, internet-news-reader, kblogger, liferea, news-feed, pan, stock_news, 
 		
