@@ -16,8 +16,13 @@
 		application-x-raw-disk-image, fonts-package, font-ttf, none, application-x-kgetlist, libreoffice-extension, application-vnd.nintendo.snes.rom, 
 		application-x-gameboy-rom, application-x-gamecube-rom, application-x-gba-rom, application-x-n64-rom, application-x-nes-rom, application-x-nintendo-ds-rom, 
 		libreoffice-spreadsheet, video-x-flv, application-x-siag, libreoffice-spreadsheet-template, application-vnd.sun.xml.calc.template, smtube, awf, 
-		grub-customizer, ramme, keepassxc, chromium, ca.desrt.dconf-editor.
-
+		grub-customizer, ramme, keepassxc, chromium, ca.desrt.dconf-editor, sonata, git-cola, git-dag, gitg, git-gui, org.gnome.gitg, nvidia, 
+		nvidia-310-settings, nvidia-current-settings, nvidia-current-updates-settings, nvidia-drivers-settings, nvidia-x-server-setting, nvidia-x-server-settings, 
+		ring-kde, wire-desktop, anoise, cantata, com.github.themix_project.Oomox, deadbeef, doublecmd, focuswriter, git, gnome-robots, nvidia-settings, 
+		rawtherapee, ring, vkaudiosaver, wire, encrypted, application-pgp-encrypted, application-x-keepass2, application-x-keepassx, application-x-keepassxc, 
+		application-x-ar, application-x-arc, application-x-gzdvi, application-x-gzpostscript, application-x-tzo, application-x-xz-compressed-tar, 
+		application-x-xz-pkg, audio-prs.sid, audio-x-midi, gnome-mime-audio-midi, midi, text-markdown, application-x-blender, application-x-keepass, 
+		application-x-tarz, audio-midi, text-x-markdown, 
 	
 	updated:
 		akregator, gnome-news, internet-feed-reader, internet-news-reader, kblogger, liferea, news-feed, pan, stock_news, 

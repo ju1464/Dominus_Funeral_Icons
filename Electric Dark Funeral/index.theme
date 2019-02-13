@@ -1,6 +1,9 @@
 [Icon Theme]
 Name=Electric Dark Funeral
+
 Comment=Metalheads Icons
+Comment[es]=Iconos Metaleros
+
 Inherits=breeze,gnome,hicolor
 
 Example=directory-x-normal
