@@ -1,29 +1,4 @@
 	added:  
-		tor, tor-browser, torbrowser, akonadi, akonadiconsole, akonaditray, amarok, amarok2, amarok-icon, chess, chessx, dreamchess, gnome-chess, gnome-glchess, 
-		net.sourceforge.Chessx, pychess, xboard, kleopatra, application-vnd-google-earth-kml, application-xhtml+xml, application-xsd, application-xslt+xml, 
-		text-mathml, text-rdf+xml, text-sgml, text-vnd.wap.wml, text-x-xslfo, application-relaxng, application-x-marble, application-x-mimearchive, 
-		application-x-mswinurl, application-x-qet-element, application-x-qet-project, application-x-xpinstall, viewhtml, x-kde-nsplugin-generated, text-x-plain, 
-		video-mlt-playlist, image-ico, image-vnd.microsoft.icon, image-x-icon, text-x-objchdr, video-x-msvideo, video-x-ms-wmp, video-x-ms-wmv, audio-mp2, 
-		audio-mp3, audio-mp4, audio-x-mp2, application-x-awk, application-x-chm, application-x-executable-script, text-x-generic.svapplication-x-awk, 
-		text-x-texinfo, application-x-font-afm, application-x-font-bdf, application-x-font-otf, application-x-font-ttf, application-x-font-type1, 
-		application-x-zerosize, text-x-katefilelist, text-x-lilypond, text-x-log, text-x-nfo, application-vnd.oasis.opendocument.image, application-x-egon, 
-		application-x-kdenlivetitle, audio-ac3, audio-x-aiff, audio-x-monkey, text-x-opml, video-webm, video-x-matroska, video-x-theora+ogg, video-x-wmv, 
-		text-directory, text-x-dtd, text-x-ldif, text-x-makefile, text-x-vcard, x-mail-distribution-list, application-deb, 
-		application-vnd.debian.binary-package, application-vnd.rar, application-x-archive, application-x-bzdvi, application-x-pak, application-x-rdata, 
-		application-x-source-rpm, gnome-mime-application-deb, package-gdebi, text-xmcd, application-vnd.ms-word.document.macroenabled.12, 
-		application-vnd.ms-word, application-wps-office.doc, application-wps-office.docx, video-x-ogm+ogg, viewdvi, text-x-opml+xml, x-office-contact, 
-		application-x-apple-diskimage, application-x-cda, application-x-cue, application-x-font-pcf, application-x-font-snf, application-x-iso, application-x-k3b, 
-		application-x-raw-disk-image, fonts-package, font-ttf, none, application-x-kgetlist, libreoffice-extension, application-vnd.nintendo.snes.rom, 
-		application-x-gameboy-rom, application-x-gamecube-rom, application-x-gba-rom, application-x-n64-rom, application-x-nes-rom, application-x-nintendo-ds-rom, 
-		libreoffice-spreadsheet, video-x-flv, application-x-siag, libreoffice-spreadsheet-template, application-vnd.sun.xml.calc.template, smtube, awf, 
-		grub-customizer, ramme, keepassxc, chromium, ca.desrt.dconf-editor, sonata, git-cola, git-dag, gitg, git-gui, org.gnome.gitg, nvidia, 
-		nvidia-310-settings, nvidia-current-settings, nvidia-current-updates-settings, nvidia-drivers-settings, nvidia-x-server-setting, nvidia-x-server-settings, 
-		ring-kde, wire-desktop, anoise, cantata, com.github.themix_project.Oomox, deadbeef, doublecmd, focuswriter, git, gnome-robots, nvidia-settings, 
-		rawtherapee, ring, vkaudiosaver, wire, encrypted, application-pgp-encrypted, application-x-keepass2, application-x-keepassx, application-x-keepassxc, 
-		application-x-ar, application-x-arc, application-x-gzdvi, application-x-gzpostscript, application-x-tzo, application-x-xz-compressed-tar, 
-		application-x-xz-pkg, audio-prs.sid, audio-x-midi, gnome-mime-audio-midi, midi, text-markdown, application-x-blender, application-x-keepass, 
-		application-x-tarz, audio-midi, text-x-markdown, 
-	
+		megalogging, megauptodate, megawarning, megapaused, megasynching, mintupdate, org.kde.discovernotifier, pamac-updater, yast-online_update, 
+
 	updated:
-		akregator, gnome-news, internet-feed-reader, internet-news-reader, kblogger, liferea, news-feed, pan, stock_news, 
-		
