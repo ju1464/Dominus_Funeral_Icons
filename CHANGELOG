@@ -24,4 +24,4 @@ anaconda, calamares, com.github.artemanufrij.imageburner, cs-sources, debian-ins
 system-os-installer, yast-live-install, 
 
 updated:
-ubiquity, ubiquity-kde, 
+ubiquity, ubiquity-kde, application-x-remote-connection, application-x-vnc, gnome-mime-application-x-remote-connection, gnome-mime-application-x-vnc, 
