@@ -1,4 +1,4 @@
-added:  
+Added:  
 vim-qt, apparmor_view_profile, com.wire.WireDesktop, cs-firewall, draksec-mdk, miro-guide-source, preferences-certificates, preferences-system-firewall, wicd-gtk, wire-panel, 
 yast-firewall, calligrastage, calligrawords, chrome-damddgdogmdhjjbgpfpgmkdgdgjhohef-Default, chrome-pjkljhegncpnkpknbcohdijeoejaedia-Default, com.adobe.Flash-Player-Projector, 
 com.skype.Client, deepin-emacs, emacs24, emacs25, emacs-24, emacs-25, emacs-nox, emacs-snapshot, Gmail-mail.google.com, GMail-mail.google.com, gmail-plasmoid, gnome-emacs, 
@@ -21,7 +21,8 @@ metacity, org.kde.plasma.windowlist, preferences-system-network-proxy, preferenc
 yast-lan, cs-display, cs-screen, disper, unity-display-panel, xfce4-display, xfce4-splash, XrendrMixer, cs-notifications, preferences-desktop-notification, 
 preferences-desktop-notification-bell, preferences-desktop-notifications, accessibility, accessibility_section, cs-universal-access, tightvnc, org.kde.plasma.notifications, 
 anaconda, calamares, com.github.artemanufrij.imageburner, cs-sources, debian-installer-launcher, deepin-installer, deepin-installer-oem, org.kde.distrowatcher, 
-system-os-installer, yast-live-install, 
+system-os-installer, yast-live-install.
 
-updated:
-ubiquity, ubiquity-kde, application-x-remote-connection, application-x-vnc, gnome-mime-application-x-remote-connection, gnome-mime-application-x-vnc, 
+Updated:
+ubiquity, ubiquity-kde, application-x-remote-connection, application-x-vnc, gnome-mime-application-x-remote-connection, gnome-mime-application-x-vnc, go-home, gohome, gtk-home, 
+kfm_home, redhat-home, stock_home, user-home-symbolic, go-home-symbolic, preferences-other-symbolic.
