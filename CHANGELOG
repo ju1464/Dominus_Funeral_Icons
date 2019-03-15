@@ -26,3 +26,6 @@ system-os-installer, yast-live-install.
 Updated:
 ubiquity, ubiquity-kde, application-x-remote-connection, application-x-vnc, gnome-mime-application-x-remote-connection, gnome-mime-application-x-vnc, go-home, gohome, gtk-home, 
 kfm_home, redhat-home, stock_home, user-home-symbolic, go-home-symbolic, preferences-other-symbolic.
+
+Fixed:
+folder-visiting, folder-documents, 
