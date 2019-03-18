@@ -9,7 +9,8 @@ cantor, ffmulticonverter, aptana, preferences-desktop-filetype-association, org.
 application-x-vnc, gnome-mime-application-x-remote-connection, gnome-mime-application-x-vnc, com.ozmartians.VidCutter, org.audacityteam.Audacity, kmix, kword, amulegui, 
 emule, kamule, calligrakexi, kexi, exfalso, kid3, kid3-qt, org.musicbrainz.Picard, picard, utilities-file-archiver, ntfs-config, fr.handbrake.ghb, firefox3, firefox-3.0, 
 firefox-3.5, firefox-4.0, firefox-beta, firefox-beta-bin, firefox-default, firefox-esr, firefox-gtk3, firefox-icon, firefox-mozilla-build, firefox-original, mozilla-firefox, 
-org.mozilla.Firefox, preferences-system-network-sharing, 
+org.mozilla.Firefox, preferences-system-network-sharing, org.gnome.Software-symbolic, software-installed-symbolic, xfce4-statusnotifier-plugin, xfce4-pulseaudio-plugin, 
+xfce4-netload-plugin, tvm-burn-cd, 
 
 Updated:
 
