@@ -10,7 +10,10 @@ application-x-vnc, gnome-mime-application-x-remote-connection, gnome-mime-applic
 emule, kamule, calligrakexi, kexi, exfalso, kid3, kid3-qt, org.musicbrainz.Picard, picard, utilities-file-archiver, ntfs-config, fr.handbrake.ghb, firefox3, firefox-3.0, 
 firefox-3.5, firefox-4.0, firefox-beta, firefox-beta-bin, firefox-default, firefox-esr, firefox-gtk3, firefox-icon, firefox-mozilla-build, firefox-original, mozilla-firefox, 
 org.mozilla.Firefox, preferences-system-network-sharing, org.gnome.Software-symbolic, software-installed-symbolic, xfce4-statusnotifier-plugin, xfce4-pulseaudio-plugin, 
-xfce4-netload-plugin, tvm-burn-cd, 
+xfce4-netload-plugin, tvm-burn-cd, workspace-switcher-top-left, firefox-developer-icon, org.mozilla.FirefoxDevEdition, firefox-nightly, firefox-nightly-icon, 
+org.mozilla.FirefoxNightly, com.github.ztefn.haguichi, appimagekit-kitty, kitty, urxvt, urxvt_48x48, xterm, xterm-color_48x48, altyo, diffuse, firefox-developer-edition, 
+firefox-trunk, haguichi, openbravo-erp, utilities-x-terminal, workspace-switcher-left-bottom, workspace-switcher-right-bottom, workspace-switcher-right-top, yakuake, 
+yandex-browser, 
 
 Updated:
 
