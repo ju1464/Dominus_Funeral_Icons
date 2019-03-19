@@ -13,9 +13,12 @@ org.mozilla.Firefox, preferences-system-network-sharing, org.gnome.Software-symb
 xfce4-netload-plugin, tvm-burn-cd, workspace-switcher-top-left, firefox-developer-icon, org.mozilla.FirefoxDevEdition, firefox-nightly, firefox-nightly-icon, 
 org.mozilla.FirefoxNightly, com.github.ztefn.haguichi, appimagekit-kitty, kitty, urxvt, urxvt_48x48, xterm, xterm-color_48x48, altyo, diffuse, firefox-developer-edition, 
 firefox-trunk, haguichi, openbravo-erp, utilities-x-terminal, workspace-switcher-left-bottom, workspace-switcher-right-bottom, workspace-switcher-right-top, yakuake, 
-yandex-browser, 
+yandex-browser, amd-ati, ccc-large, ccc_large, cmake, cmake-gui, CMakeSetup32, gnome-panel-drawer, minimizeall, gnome-maps, gpxsee, org.gnome.maps, org.gnome.Maps, 
+org.qgis.qgis, qgis, qgis-icon, qlandkartegt, qmapshack, QMapShack, org.kde.plasma.mediacenter, deepin.com.wechat, com.github.JannikHv.Gydl, gydl, youtube-dlg, 
+youtube-dl-gui, youtube-dl-gui_48x48, youtube-dl-qt-icon, amd, CMakeSetup, cs-panel, falkon, gksu, granatier, maps, plasma-media-center, wechat, youtube-dl, 
 
 Updated:
+gnome-mines, 
 
 
 Fixed:
