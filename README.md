@@ -2,9 +2,9 @@
 # Electric_Funeral_Icon_Theme
 ## METALHEADS ICONS.
 
-### You can turn your desk into a cemetery, open tombs and examine coffins on your computer without worrying that no vengeful spirit will go to your house to disturb you.
+### Turn your desk into a cemetery, open tombs and examine coffins on your computer.
 
-### Two ways to choose :
+### Includes *Electric* and *Dominus* Funeral
 
 **Electric Funeral** are simple design icons with flat colors.
 
