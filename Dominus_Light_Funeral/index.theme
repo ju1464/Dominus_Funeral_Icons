@@ -1,52 +1,107 @@
 [Icon Theme]
-Name=Dominus Light Funeral
+Name=Dominus Funeral
 
 Comment=Metalheads Icons
 Comment[es]=Iconos Metaleros
 
-Inherits=breeze,gnome,hicolor
+Inherits=breeze,elementary,elementary-xfce,gnome,hicolor
 
 Example=folder
 
 FollowsColorScheme=true
 
-#Directory list
-Directories=24/apps,24/categories,24/devices,24/mimes,24/places,scalable/actions,scalable/animations,scalable/apps,scalable/categories,scalable/devices,scalable/emblems,scalable/mimes,scalable/panel,scalable/places,scalable/status,symbolic/actions,symbolic/apps,symbolic/categories,symbolic/devices,symbolic/mimes,symbolic/panel,symbolic/places,symbolic/status,
+DesktopDefault=48
+DesktopSizes=16,22,32,48,64,128,256
+ToolbarDefault=22
+ToolbarSizes=16,22,32,48
+MainToolbarDefault=22
+MainToolbarSizes=16,22,32,48
+SmallDefault=16
+SmallSizes=16,22,32,48
+PanelDefault=48
+PanelSizes=16,22,32,48,64,128,256
+DialogDefault=32
+DialogSizes=16,22,32,48,64,128,256
 
-[24/apps]
+KDE-Extensions=.svg
+
+#Directory list
+Directories=16/apps,22/apps,24/apps,16/categories,22/categories,24/categories,16/devices,22/devices,24/devices,16/mimes,22/mimes,24/mimes,16/places,22/places,24/places,scalable/actions,scalable/animations,scalable/apps,scalable/categories,scalable/devices,scalable/emblems,scalable/mimes,scalable/panel,scalable/places,scalable/status,symbolic/actions,symbolic/apps,symbolic/categories,symbolic/devices,symbolic/mimes,symbolic/panel,symbolic/places,symbolic/status,
+
+[16/apps]
 Size=16
 Context=Applications
-Type=Scalable
-MinSize=8
-MaxSize=24
+Type=Fixed
 
-[24/categories]
+[22/apps]
+Size=22
+Context=Applications
+Type=Fixed
+
+[24/apps]
+Size=24
+Context=Applications
+Type=Fixed
+
+[16/categories]
 Size=16
 Context=Categories
-Type=Scalable
-MinSize=8
-MaxSize=24
+Type=Fixed
 
-[24/devices]
+[22/categories]
+Size=22
+Context=Categories
+Type=Fixed
+
+[24/categories]
+Size=24
+Context=Categories
+Type=Fixed
+
+[16/devices]
 Size=16
 Context=Devices
-Type=Scalable
-MinSize=8
-MaxSize=24
+Type=Fixed
 
-[24/mimes]
+[22/devices]
+Size=22
+Context=Devices
+Type=Fixed
+
+[24/devices]
+Size=24
+Context=Devices
+Type=Fixed
+
+[16/mimes]
 Size=16
 Context=MimeTypes
-Type=Scalable
-MinSize=8
-MaxSize=24
+Type=Fixed
 
-[24/places]
+[22/mimes]
+Size=22
+Context=MimeTypes
+Type=Fixed
+
+[24/mimes]
+Size=24
+Context=MimeTypes
+Type=Fixed
+
+[16/places]
 Size=16
 Context=Places
-Type=Scalable
-Minsize=8
-Maxsize=24
+Type=Fixed
+
+[22/places]
+Size=22
+Context=Places
+Type=Fixed
+
+[24/places]
+Size=24
+Context=Places
+Type=Fixed
 
 [scalable/actions]
 Size=48
