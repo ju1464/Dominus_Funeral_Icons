@@ -4,7 +4,7 @@ Name=Dominus Dark Funeral
 Comment=Metalheads Icons
 Comment[es]=Iconos Metaleros
 
-Inherits=breeze-dark,elementary,elementary-xfce,gnome,hicolor
+Inherits=breeze-dark,Adwaita,hicolor
 
 Example=folder
 
