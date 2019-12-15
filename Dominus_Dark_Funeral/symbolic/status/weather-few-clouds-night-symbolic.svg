@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="weather-few-clouds-night-symbolic.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="717"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="21.708333"
+     inkscape:cx="12"
+     inkscape:cy="12"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     style="isolation:auto;mix-blend-mode:normal;fill:#808080"
+     d="M 9.9335938 4.3554688 A 8 8 0 0 0 9.9277344 4.3574219 A 8 8 0 0 0 9.1777344 4.6308594 A 8 8 0 0 0 8.4570312 4.9785156 A 8 8 0 0 0 7.7753906 5.3964844 A 8 8 0 0 0 7.1386719 5.8789062 A 8 8 0 0 0 6.5527344 6.4238281 A 8 8 0 0 0 6.0253906 7.0253906 A 8 8 0 0 0 5.5605469 7.6757812 A 8 8 0 0 0 5.1621094 8.3691406 A 8 8 0 0 0 4.8359375 9.0996094 A 8 8 0 0 0 4.5820312 9.8574219 A 8 8 0 0 0 4.4082031 10.638672 A 8 8 0 0 0 4.3105469 11.431641 A 8 8 0 0 0 4.2929688 12.230469 A 8 8 0 0 0 4.3574219 13.029297 A 8 8 0 0 0 4.5 13.816406 A 8 8 0 0 0 4.71875 14.583984 A 8 8 0 0 0 5.015625 15.328125 A 8 8 0 0 0 5.3847656 16.037109 A 8 8 0 0 0 5.8222656 16.707031 A 8 8 0 0 0 6.3242188 17.328125 A 8 8 0 0 0 6.8847656 17.898438 A 8 8 0 0 0 7.5019531 18.408203 A 8 8 0 0 0 8.1640625 18.853516 A 8 8 0 0 0 8.8691406 19.232422 A 8 8 0 0 0 9.609375 19.537109 A 8 8 0 0 0 10.333984 19.755859 A 2.667 2.667 0 0 1 10.253906 19.126953 A 2.667 2.667 0 0 1 12.255859 16.546875 A 4 4 0 0 1 12.253906 16.460938 A 4 4 0 0 1 12.275391 16.085938 A 8.03 8.243 0 0 1 11.962891 15.888672 A 8.03 8.243 0 0 1 11.322266 15.390625 A 8.03 8.243 0 0 1 10.736328 14.828125 A 8.03 8.243 0 0 1 10.207031 14.208984 A 8.03 8.243 0 0 1 9.7402344 13.539062 A 8.03 8.243 0 0 1 9.3398438 12.824219 A 8.03 8.243 0 0 1 9.0117188 12.072266 A 8.03 8.243 0 0 1 8.7597656 11.289062 A 8.03 8.243 0 0 1 8.5839844 10.486328 A 8.03 8.243 0 0 1 8.4863281 9.6679688 A 8.03 8.243 0 0 1 8.4667969 9.0859375 A 8.03 8.243 0 0 1 8.5078125 8.2617188 A 8.03 8.243 0 0 1 8.6289062 7.4472656 A 8.03 8.243 0 0 1 8.828125 6.6503906 A 8.03 8.243 0 0 1 9.1054688 5.875 A 8.03 8.243 0 0 1 9.4550781 5.1347656 A 8.03 8.243 0 0 1 9.875 4.4335938 A 8.03 8.243 0 0 1 9.9335938 4.3554688 z M 16.275391 13.617188 L 16.275391 13.619141 A 3.056 3.022 0 0 0 13.220703 16.640625 A 3.056 3.022 0 0 0 13.285156 17.248047 A 1.834 1.813 0 0 0 13.220703 17.244141 A 1.834 1.813 0 0 0 11.386719 19.058594 A 1.834 1.813 0 0 0 13.220703 20.871094 L 18.720703 20.871094 A 2.445 2.418 0 0 0 21.166016 18.453125 A 2.445 2.418 0 0 0 19.283203 16.103516 A 3.056 3.022 0 0 0 16.275391 13.617188 z "
+     id="path814" />
+</svg>

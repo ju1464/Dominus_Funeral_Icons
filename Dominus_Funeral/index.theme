@@ -26,7 +26,7 @@ DialogSizes=16,22,32,48,64,128,256
 KDE-Extensions=.svg
 
 #Directory list
-Directories=22/apps,22/categories,22/devices,22/mimes,22/places,scalable/actions,scalable/animations,scalable/apps,scalable/categories,scalable/devices,scalable/emblems,scalable/mimes,scalable/panel,scalable/places,scalable/status,symbolic/actions,symbolic/apps,symbolic/categories,symbolic/devices,symbolic/mimes,symbolic/panel,symbolic/places,symbolic/status,
+Directories=22/apps,22/categories,22/devices,22/mimes,22/places,scalable/actions,scalable/animations,scalable/apps,scalable/categories,scalable/devices,scalable/emblems,scalable/mimes,scalable/panel,scalable/places,scalable/status,symbolic/actions,symbolic/apps,symbolic/categories,symbolic/devices,symbolic/mimes,symbolic/places,symbolic/status,
 
 [22/apps]
 Size=22
@@ -164,13 +164,6 @@ MaxSize=512
 [symbolic/mimes]
 Size=16
 Context=MimeTypes
-Type=Scalable
-MinSize=8
-MaxSize=512
-
-[symbolic/panel]
-Size=16
-Context=Status
 Type=Scalable
 MinSize=8
 MaxSize=512
