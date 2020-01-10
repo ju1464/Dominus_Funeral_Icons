@@ -1,1 +1,88 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"><defs><linearGradient id="c"><stop offset="0" stop-color="#502d16"/><stop offset="1" stop-color="#c87137"/></linearGradient><linearGradient id="b"><stop offset="0" stop-color="#e6e6e6"/><stop offset="1" stop-color="#333"/></linearGradient><linearGradient id="a"><stop offset="0"/><stop offset="1" stop-opacity="0"/></linearGradient></defs><path d="M17.59 22.92c-.89 0-1.68-.19-1.86-1.04a36.71 36.71 0 0 1-.23-4.15s.07-1.9-.42-2.14c-1.36.98-1.33 1.46-2.78 3.47.35.46.2 2.58.2 2.58s.08-.02.23-.02c.22 0 .57.04 1 .23.7.3.35 1.05-.51 1.05H6.4l-.04-.14a.48.48 0 0 1-.28-.1 6.69 6.69 0 0 1-2.65-4.27 7.47 7.47 0 0 1 1.27-5.84C7.27 8.87 6.62 7.1 6.22 6.5a.52.52 0 1 1 .85-.57c.65.95 1.3 3.16-1.53 7.21a6.46 6.46 0 0 0 .53 8.22A12.36 12.36 0 0 1 7.02 14c1.22-2.82 5.4-3.18 6.51-4.74.33-.46.58-1.13.75-1.85l.17-.8c.26-1.45.3-2.85.3-2.85s.23-2.55.84-2.68h.08c.56 0 .75 1.56.75 1.56h.09c.37 0 1.95.08 2.54 1.26.28.53 1.43.72 1.61.95.19.23-.18.44-.36.9-.19.7-.36.88-1.21.93-.54.03-.97.33-1.13.9-.08.25-.1.55-.07.91l.06.39c.28 1.45.37 4.26-.9 4.73l-.13 4.87s.28 3.11 1.19 3.19c.9.07.9 1.19-.13 1.23l-.39.02" fill="#e6e6e6"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg21"
+   sodipodi:docname="kleopatra.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata25">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1138"
+     inkscape:window-height="480"
+     id="namedview23"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="1.0677966"
+     inkscape:cy="12"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg21" />
+  <defs
+     id="defs17">
+    <linearGradient
+       id="c">
+      <stop
+         offset="0"
+         stop-color="#502d16"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-color="#c87137"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       id="b">
+      <stop
+         offset="0"
+         stop-color="#e6e6e6"
+         id="stop7" />
+      <stop
+         offset="1"
+         stop-color="#333"
+         id="stop9" />
+    </linearGradient>
+    <linearGradient
+       id="a">
+      <stop
+         offset="0"
+         id="stop12" />
+      <stop
+         offset="1"
+         stop-opacity="0"
+         id="stop14" />
+    </linearGradient>
+  </defs>
+  <path
+     d="m 17.59,22.92 c -0.89,0 -1.68,-0.19 -1.86,-1.04 A 36.71,36.71 0 0 1 15.5,17.73 c 0,0 0.07,-1.9 -0.42,-2.14 -1.36,0.98 -1.33,1.46 -2.78,3.47 0.35,0.46 0.2,2.58 0.2,2.58 0,0 0.08,-0.02 0.23,-0.02 0.22,0 0.57,0.04 1,0.23 0.7,0.3 0.35,1.05 -0.51,1.05 H 6.4 L 6.36,22.76 A 0.48,0.48 0 0 1 6.08,22.66 6.69,6.69 0 0 1 3.43,18.39 7.47,7.47 0 0 1 4.7,12.55 C 7.27,8.87 6.62,7.1 6.22,6.5 A 0.52,0.52 0 1 1 7.07,5.93 c 0.65,0.95 1.3,3.16 -1.53,7.21 A 6.46,6.46 0 0 0 6.07,21.36 12.36,12.36 0 0 1 7.02,14 c 1.22,-2.82 5.4,-3.18 6.51,-4.74 0.33,-0.46 0.58,-1.13 0.75,-1.85 l 0.17,-0.8 c 0.26,-1.45 0.3,-2.85 0.3,-2.85 0,0 0.23,-2.55 0.84,-2.68 h 0.08 c 0.56,0 0.75,1.56 0.75,1.56 h 0.09 c 0.37,0 1.95,0.08 2.54,1.26 0.28,0.53 1.43,0.72 1.61,0.95 0.19,0.23 -0.18,0.44 -0.36,0.9 -0.19,0.7 -0.36,0.88 -1.21,0.93 -0.54,0.03 -0.97,0.33 -1.13,0.9 -0.08,0.25 -0.1,0.55 -0.07,0.91 l 0.06,0.39 c 0.28,1.45 0.37,4.26 -0.9,4.73 l -0.13,4.87 c 0,0 0.28,3.11 1.19,3.19 0.9,0.07 0.9,1.19 -0.13,1.23 l -0.39,0.02"
+     id="path19"
+     inkscape:connector-curvature="0"
+     style="fill:#e6e6e6" />
+</svg>

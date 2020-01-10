@@ -1,1 +1,67 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 6.35 6.35"><defs><linearGradient id="a"><stop offset="0"/><stop offset="1" stop-opacity="0"/></linearGradient></defs><path d="M2.55.4v3.52a1.6 1.6 0 0 0-.63-.12c-.74 0-1.34.48-1.34 1.07 0 .6.6 1.08 1.34 1.08.74 0 1.34-.48 1.34-1.08V1.14A2.15 2.15 0 0 1 4.42 4.8l.5.51A2.87 2.87 0 0 0 2.9.4z" color="#000" fill="#e6e6e6"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   viewBox="0 0 6.35 6.35"
+   version="1.1"
+   id="svg11"
+   sodipodi:docname="cantata.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata15">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1142"
+     inkscape:window-height="480"
+     id="namedview13"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="1.2711864"
+     inkscape:cy="12"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg11" />
+  <defs
+     id="defs7">
+    <linearGradient
+       id="a">
+      <stop
+         offset="0"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-opacity="0"
+         id="stop4" />
+    </linearGradient>
+  </defs>
+  <path
+     d="M 2.55,0.4 V 3.92 A 1.6,1.6 0 0 0 1.92,3.8 c -0.74,0 -1.34,0.48 -1.34,1.07 0,0.6 0.6,1.08 1.34,1.08 0.74,0 1.34,-0.48 1.34,-1.08 V 1.14 A 2.15,2.15 0 0 1 4.42,4.8 l 0.5,0.51 A 2.87,2.87 0 0 0 2.9,0.4 Z"
+     id="path9"
+     inkscape:connector-curvature="0"
+     style="color:#000000;fill:#e6e6e6" />
+</svg>
