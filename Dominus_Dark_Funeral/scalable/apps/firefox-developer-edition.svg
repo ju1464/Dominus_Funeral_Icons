@@ -12,7 +12,7 @@
    version="1.1"
    id="svg357"
    sodipodi:docname="firefox-developer-edition.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
      id="metadata361">
     <rdf:RDF>
@@ -35,14 +35,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="719"
+     inkscape:window-height="711"
      id="namedview359"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="1.9555922"
-     inkscape:cx="-24.962151"
-     inkscape:cy="22.977292"
+     inkscape:zoom="10.208333"
+     inkscape:cx="24"
+     inkscape:cy="24"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
@@ -2465,7 +2465,7 @@
      style="fill:url(#linearGradient2684);fill-opacity:1"
      inkscape:connector-curvature="0" />
   <path
-     style="fill:url(#linearGradient1530);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.659"
+     style="opacity:0.65899999;fill:url(#linearGradient1530);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="m 27.154297,46.498047 c 0.98785,-0.635879 2.034966,-1.49242 3.214844,-2.71875 2,-2.08 4.22,-4.970156 6.25,-8.160156 0.89,-1.395 2.786484,-4.504922 4.458984,-8.169922 0.83625,-1.8325 1.615938,-3.802578 2.1875,-5.767578 0.571562,-1.965 0.933594,-3.924922 0.933594,-5.732422 0,-0.40551 -0.09655,-0.757861 -0.121094,-1.150391 l -9.642578,-9.6406249 0.171875,1.4550781 -4.695313,-4.6953124 0.09961,8.3867192 -9.808594,3.210937 -7.820313,-7.8320312 -0.722656,11.6718752 1.175782,14.826172 z"
      id="path1487"
      inkscape:connector-curvature="0" />
@@ -2481,7 +2481,7 @@
      id="path598"
      inkscape:connector-curvature="0" />
   <g
-     style="isolation:isolate;fill:#1a1a1a;opacity:0.372"
+     style="opacity:0.372;isolation:isolate;fill:#1a1a1a"
      id="g604"
      transform="matrix(0.03539356,0,0,0.03539356,5.887926,1.8473298)">
     <path

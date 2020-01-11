@@ -1,1 +1,77 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1"><defs><linearGradient id="b"><stop offset="0"/><stop offset="1" stop-opacity="0"/></linearGradient><linearGradient id="a"><stop offset="0" stop-color="#37abc8"/><stop offset="1" stop-color="#162d50"/></linearGradient></defs><path d="M12.3 23v-1.65l6.06-2.5 1.18 1.17.49-.5-1.18-1.17.99-2.38a.35.35 0 0 0-.66-.27l-.86 2.1-1.63-1.61 1.61-3.9h2.3l-.87 2.12a.35.35 0 1 0 .64.27l.99-2.4H23v-.7h-1.64l-2.5-6.04 1.13-1.13-.5-.5-1.13 1.14-6.05-2.5V1h-.7v1.55l-6.07 2.5-1.06-1.1-.5.5 1.08 1.07-2.51 6.05H1v.7h1.55l2.5 6.08-1.12 1.13.5.49 1.11-1.12 6.07 2.5V23zm0-2.41v-2.3l3.9-1.6 1.62 1.62zm-.7 0l-5.53-2.3 1.63-1.6 3.9 1.6v2.13zM5.58 17.8l-2.3-5.53h2.3l.56 1.3a.35.35 0 0 0 .64-.26l-.43-1.04h2.3l.71 1.75-1.63 1.62-.42-1.04a.35.35 0 0 0-.64.27l.54 1.3zm6.7-.28v-2.3l1.75-.7 1.62 1.62zm-.7 0l-3.36-1.4 1.63-1.6 1.75.72zm4.57-1.87l-1.62-1.63.72-1.74h2.3zm-3.85-1.17v-1.71l1.2 1.2zm-.7 0l-1.21-.5 1.2-1.21zm2.4-1l-1.21-1.2h1.7zm-4.1 0l-.5-1.2h1.7zm10.7-1.89h-2.3l-1.62-3.9 1.63-1.63zm-3.05 0h-2.3l-.72-1.75 1.63-1.63zm-3.05 0h-1.72l1.2-1.22zm-3.4 0l-1.7-.01.5-1.2zm-2.46-.01h-2.3l1.4-3.37 1.62 1.62zm-3.05 0H3.3l2.3-5.53 1.62 1.63zm6.7-.48V9.39l1.2.5zm-.7 0l-1.2-1.22 1.2-.5zm2.46-1.76l-1.74-.72v-2.3l3.36 1.4zm-4.2 0L8.25 7.73l3.37-1.4v2.3zm6.35-2.15l-3.9-1.6V3.28l5.53 2.3zm-8.5 0L6.1 5.57l5.53-2.29v2.3z" fill="gray"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   version="1"
+   id="svg16"
+   sodipodi:docname="applications-webbrowsers-symbolic.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1112"
+     inkscape:window-height="480"
+     id="namedview18"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="1.0677966"
+     inkscape:cy="12"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg16" />
+  <defs
+     id="defs12">
+    <linearGradient
+       id="b">
+      <stop
+         offset="0"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-opacity="0"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       id="a">
+      <stop
+         offset="0"
+         stop-color="#37abc8"
+         id="stop7" />
+      <stop
+         offset="1"
+         stop-color="#162d50"
+         id="stop9" />
+    </linearGradient>
+  </defs>
+  <path
+     d="m 12.3,23 v -1.65 l 6.06,-2.5 1.18,1.17 0.49,-0.5 -1.18,-1.17 0.99,-2.38 A 0.35654593,0.35654593 0 0 0 19.18,15.7 l -0.86,2.1 -1.63,-1.61 1.61,-3.9 h 2.3 l -0.87,2.12 a 0.35,0.35 0 1 0 0.64,0.27 l 0.99,-2.4 H 23 v -0.7 h -1.64 l -2.5,-6.04 1.13,-1.13 -0.5,-0.5 -1.13,1.14 -6.05,-2.5 V 1 h -0.7 V 2.55 L 5.54,5.05 4.48,3.95 3.98,4.45 5.06,5.52 2.55,11.57 H 1 v 0.7 h 1.55 l 2.5,6.08 -1.12,1.13 0.5,0.49 1.11,-1.12 6.07,2.5 V 23 Z m 0,-2.41 v -2.3 l 3.9,-1.6 1.62,1.62 z m -0.7,0 -5.53,-2.3 1.63,-1.6 3.9,1.6 v 2.13 z M 5.58,17.8 3.28,12.27 h 2.3 l 0.56,1.3 A 0.35,0.35 0 0 0 6.78,13.31 L 6.35,12.27 h 2.3 L 9.36,14.02 7.73,15.64 7.31,14.6 a 0.35,0.35 0 0 0 -0.64,0.27 l 0.54,1.3 z m 6.7,-0.28 v -2.3 l 1.75,-0.7 1.62,1.62 z m -0.7,0 -3.36,-1.4 1.63,-1.6 1.75,0.72 z m 4.57,-1.87 -1.62,-1.63 0.72,-1.74 h 2.3 z M 12.3,14.48 v -1.71 l 1.2,1.2 z m -0.7,0 -1.21,-0.5 1.2,-1.21 z m 2.4,-1 -1.21,-1.2 h 1.7 z m -4.1,0 -0.5,-1.2 h 1.7 z m 10.7,-1.89 h -2.3 l -1.62,-3.9 1.63,-1.63 z m -3.05,0 h -2.3 L 14.53,9.84 16.16,8.21 Z m -3.05,0 h -1.72 l 1.2,-1.22 z m -3.4,0 -1.7,-0.01 0.5,-1.2 z M 8.64,11.58 h -2.3 l 1.4,-3.37 1.62,1.62 z m -3.05,0 H 3.3 L 5.6,6.05 7.22,7.68 Z m 6.7,-0.48 V 9.39 l 1.2,0.5 z m -0.7,0 -1.2,-1.22 1.2,-0.5 z M 14.05,9.34 12.31,8.62 v -2.3 l 3.36,1.4 z m -4.2,0 -1.6,-1.61 3.37,-1.4 v 2.3 z M 16.2,7.19 12.3,5.59 V 3.28 l 5.53,2.3 z m -8.5,0 -1.6,-1.62 5.53,-2.29 v 2.3 z"
+     id="path14"
+     inkscape:connector-curvature="0"
+     style="fill:#808080" />
+</svg>

@@ -1,1 +1,102 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"><defs><linearGradient id="d"><stop offset="0" stop-color="#1a1a1a"/><stop offset="1" stop-color="#1a1a1a" stop-opacity="0"/></linearGradient><linearGradient id="a"><stop offset="0" stop-color="#f2f2f2"/><stop offset="1" stop-color="#ccc"/></linearGradient><linearGradient id="b"><stop offset="0" stop-color="#22241c"/><stop offset="1" stop-color="#4d4d4d"/></linearGradient><linearGradient id="c"><stop offset="0" stop-color="#22241c"/><stop offset="1" stop-color="#1a1a1a" stop-opacity="0"/></linearGradient></defs><path d="M2.768 2.238A2.051 2.051 0 0 0 .715 4.29v12.313c0 1.134.92 2.05 2.053 2.05h5.128v1.764H2.844v1.346h18.312v-1.346h-5.052v-1.764h5.128a2.042 2.042 0 0 0 2.041-2.05l.012-12.313c0-1.133-.92-2.05-2.053-2.05zm0 2.05h18.464v12.314H2.768z" fill="#1a1a1a"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg26"
+   sodipodi:docname="computer.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata30">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1138"
+     inkscape:window-height="480"
+     id="namedview28"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="1.0677966"
+     inkscape:cy="12"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg26" />
+  <defs
+     id="defs22">
+    <linearGradient
+       id="d">
+      <stop
+         offset="0"
+         stop-color="#1a1a1a"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-color="#1a1a1a"
+         stop-opacity="0"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       id="a">
+      <stop
+         offset="0"
+         stop-color="#f2f2f2"
+         id="stop7" />
+      <stop
+         offset="1"
+         stop-color="#ccc"
+         id="stop9" />
+    </linearGradient>
+    <linearGradient
+       id="b">
+      <stop
+         offset="0"
+         stop-color="#22241c"
+         id="stop12" />
+      <stop
+         offset="1"
+         stop-color="#4d4d4d"
+         id="stop14" />
+    </linearGradient>
+    <linearGradient
+       id="c">
+      <stop
+         offset="0"
+         stop-color="#22241c"
+         id="stop17" />
+      <stop
+         offset="1"
+         stop-color="#1a1a1a"
+         stop-opacity="0"
+         id="stop19" />
+    </linearGradient>
+  </defs>
+  <path
+     d="M 2.768,2.238 A 2.051,2.051 0 0 0 0.715,4.29 v 12.313 c 0,1.134 0.92,2.05 2.053,2.05 h 5.128 v 1.764 H 2.844 v 1.346 h 18.312 v -1.346 h -5.052 v -1.764 h 5.128 a 2.042,2.042 0 0 0 2.041,-2.05 L 23.285,4.29 c 0,-1.133 -0.92,-2.05 -2.053,-2.05 z m 0,2.05 H 21.232 V 16.602 H 2.768 Z"
+     id="path24"
+     inkscape:connector-curvature="0"
+     style="fill:#1a1a1a" />
+</svg>

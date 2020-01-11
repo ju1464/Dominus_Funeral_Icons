@@ -1,1 +1,114 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"><defs><linearGradient id="e"><stop offset="0"/><stop offset="1" stop-color="#000006" stop-opacity=".027"/></linearGradient><linearGradient id="a"><stop offset="0" stop-color="#241c1c"/><stop offset="1" stop-color="#1a1a1a" stop-opacity="0"/></linearGradient><linearGradient id="b"><stop offset="0" stop-color="#666"/><stop offset="1" stop-color="#505050"/></linearGradient><linearGradient id="c"><stop offset="0" stop-color="#1a1a1a"/><stop offset="1" stop-color="#999"/></linearGradient><linearGradient id="d"><stop offset="0" stop-color="#333"/><stop offset="1" stop-color="#333" stop-opacity=".028"/></linearGradient></defs><path d="M2.571 1.786c-.87 0-1.571.7-1.571 1.571V6.5h22V3.357c0-.87-.7-1.571-1.571-1.571zM1 8.07v7.858c0 .87.793 1.182 1.571 1.571h1.572v2.357A2.37 2.37 0 0 0 6.5 22.214h11a2.37 2.37 0 0 0 2.357-2.357V17.5h1.572c.87 0 1.571-.7 1.571-1.571V8.07zm4.714 3.143h12.572v8.643a.767.767 0 0 1-.786.786h-11a.767.767 0 0 1-.786-.786z" class="ColorScheme-Text error" color="#ff2155" fill="#1a1a1a"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg31"
+   sodipodi:docname="printer-network.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata35">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1138"
+     inkscape:window-height="480"
+     id="namedview33"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="1.0677966"
+     inkscape:cy="12"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg31" />
+  <defs
+     id="defs27">
+    <linearGradient
+       id="e">
+      <stop
+         offset="0"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-color="#000006"
+         stop-opacity=".027"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       id="a">
+      <stop
+         offset="0"
+         stop-color="#241c1c"
+         id="stop7" />
+      <stop
+         offset="1"
+         stop-color="#1a1a1a"
+         stop-opacity="0"
+         id="stop9" />
+    </linearGradient>
+    <linearGradient
+       id="b">
+      <stop
+         offset="0"
+         stop-color="#666"
+         id="stop12" />
+      <stop
+         offset="1"
+         stop-color="#505050"
+         id="stop14" />
+    </linearGradient>
+    <linearGradient
+       id="c">
+      <stop
+         offset="0"
+         stop-color="#1a1a1a"
+         id="stop17" />
+      <stop
+         offset="1"
+         stop-color="#999"
+         id="stop19" />
+    </linearGradient>
+    <linearGradient
+       id="d">
+      <stop
+         offset="0"
+         stop-color="#333"
+         id="stop22" />
+      <stop
+         offset="1"
+         stop-color="#333"
+         stop-opacity=".028"
+         id="stop24" />
+    </linearGradient>
+  </defs>
+  <path
+     d="M 2.571,1.786 C 1.701,1.786 1,2.486 1,3.357 V 6.5 H 23 V 3.357 C 23,2.487 22.3,1.786 21.429,1.786 Z M 1,8.07 v 7.858 c 0,0.87 0.793,1.182 1.571,1.571 h 1.572 v 2.357 A 2.37,2.37 0 0 0 6.5,22.214 h 11 a 2.37,2.37 0 0 0 2.357,-2.357 V 17.5 h 1.572 C 22.299,17.5 23,16.8 23,15.929 V 8.07 Z m 4.714,3.143 h 12.572 v 8.643 A 0.767,0.767 0 0 1 17.5,20.642 H 6.5 A 0.767,0.767 0 0 1 5.714,19.856 Z"
+     class="ColorScheme-Text error"
+     id="path29"
+     inkscape:connector-curvature="0"
+     style="color:#ff2155;fill:#1a1a1a" />
+</svg>

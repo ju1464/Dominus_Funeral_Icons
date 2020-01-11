@@ -1,1 +1,76 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"><defs><linearGradient id="a"><stop offset="0" stop-color="#ffcd7d"/><stop offset=".262" stop-color="#fc8f36"/><stop offset=".705" stop-color="#e23a0e"/><stop offset="1" stop-color="#ac441f"/></linearGradient></defs><path d="M17.526 1a.783.783 0 0 0-.785.785v14.971c-.962-.404-2.165-.263-3.196.374-1.679 1.039-2.405 3.06-1.622 4.515.781 1.454 2.776 1.79 4.453.751 1.214-.752 1.974-2.058 1.932-3.321 0-.005.003-.01.003-.016V6.3c.19-.104.483.121.638.228 1.765 1.067 3.305 2.838 3.414 5.02.095 1.263-.17 2.519-.534 3.718 1.622-2.668 1.535-6.38-.469-8.818-1.292-1.348-2.511-2.92-3.049-4.748-.039-.173-.276-.699-.785-.699zM1.822 2.57a.783.783 0 0 0-.785.786c0 .435.35.785.785.785h9.423c.435 0 .785-.35.785-.785a.783.783 0 0 0-.785-.786zm0 4.712a.783.783 0 0 0-.785.785c0 .435.35.785.785.785h9.423c.435 0 .785-.35.785-.785a.783.783 0 0 0-.785-.785zm0 4.71a.783.783 0 0 0-.785.786c0 .435.35.785.785.785h9.423c.435 0 .785-.35.785-.785a.783.783 0 0 0-.785-.785zm0 4.712a.783.783 0 0 0-.785.785c0 .435.35.785.785.785h4.712c.435 0 .785-.35.785-.785a.783.783 0 0 0-.785-.785z" style="isolation:auto;mix-blend-mode:normal;marker:none" color="#000" overflow="visible" fill="#1a1a1a"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg15"
+   sodipodi:docname="audio-x-mp3-playlist.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata19">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1112"
+     inkscape:window-height="480"
+     id="namedview17"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="1.0677966"
+     inkscape:cy="12"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg15" />
+  <defs
+     id="defs11">
+    <linearGradient
+       id="a">
+      <stop
+         offset="0"
+         stop-color="#ffcd7d"
+         id="stop2" />
+      <stop
+         offset=".262"
+         stop-color="#fc8f36"
+         id="stop4" />
+      <stop
+         offset=".705"
+         stop-color="#e23a0e"
+         id="stop6" />
+      <stop
+         offset="1"
+         stop-color="#ac441f"
+         id="stop8" />
+    </linearGradient>
+  </defs>
+  <path
+     d="m 17.526,1 a 0.783,0.783 0 0 0 -0.785,0.785 v 14.971 c -0.962,-0.404 -2.165,-0.263 -3.196,0.374 -1.679,1.039 -2.405,3.06 -1.622,4.515 0.781,1.454 2.776,1.79 4.453,0.751 1.214,-0.752 1.974,-2.058 1.932,-3.321 0,-0.005 0.003,-0.01 0.003,-0.016 V 6.3 c 0.19,-0.104 0.483,0.121 0.638,0.228 1.765,1.067 3.305,2.838 3.414,5.02 0.095,1.263 -0.17,2.519 -0.534,3.718 C 23.451,12.598 23.364,8.886 21.36,6.448 20.068,5.1 18.849,3.528 18.311,1.7 18.272,1.527 18.035,1.001 17.526,1.001 Z M 1.822,2.57 A 0.783,0.783 0 0 0 1.037,3.356 c 0,0.435 0.35,0.785 0.785,0.785 h 9.423 c 0.435,0 0.785,-0.35 0.785,-0.785 A 0.783,0.783 0 0 0 11.245,2.57 Z m 0,4.712 A 0.783,0.783 0 0 0 1.037,8.067 c 0,0.435 0.35,0.785 0.785,0.785 h 9.423 c 0.435,0 0.785,-0.35 0.785,-0.785 A 0.783,0.783 0 0 0 11.245,7.282 Z m 0,4.71 a 0.783,0.783 0 0 0 -0.785,0.786 c 0,0.435 0.35,0.785 0.785,0.785 h 9.423 c 0.435,0 0.785,-0.35 0.785,-0.785 a 0.783,0.783 0 0 0 -0.785,-0.785 z m 0,4.712 a 0.783,0.783 0 0 0 -0.785,0.785 c 0,0.435 0.35,0.785 0.785,0.785 h 4.712 c 0.435,0 0.785,-0.35 0.785,-0.785 A 0.783,0.783 0 0 0 6.534,16.704 Z"
+     style="color:#000000;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#1a1a1a;marker:none"
+     overflow="visible"
+     id="path13"
+     inkscape:connector-curvature="0" />
+</svg>

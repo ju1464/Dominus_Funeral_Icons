@@ -1,1 +1,55 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"><path fill="gray" d="M13.732 2.635a6.03 6.03 0 0 0-1.755.289 6.117 6.117 0 0 0-1.739-.281c-2.936 0-6.892 2.856-6.959 5.263-.072 2.616-.257 7.347-.396 10.983h-.328v2.38h18.857v-2.38h-.351c-.132-4.236-.28-9.117-.39-10.99-.146-2.51-4.003-5.264-6.939-5.264zm-4.136 1.44C8.024 5.12 6.81 6.574 6.773 7.897c-.072 2.618-.255 7.354-.394 10.99H4.586c-.034-5.697.088-10.234.088-10.234 0-1.911 2.76-4.175 4.922-4.58z"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="folder-move-symbolic.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1112"
+     inkscape:window-height="480"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="1.0677966"
+     inkscape:cy="12"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4" />
+  <path
+     d="M 13.732,2.635 A 6.03,6.03 0 0 0 11.977,2.924 6.117,6.117 0 0 0 10.238,2.643 C 7.302,2.643 3.346,5.499 3.279,7.906 3.207,10.522 3.022,15.253 2.883,18.889 H 2.555 v 2.38 h 18.857 v -2.38 H 21.061 C 20.929,14.653 20.781,9.772 20.671,7.899 20.525,5.389 16.668,2.635 13.732,2.635 Z M 9.596,4.075 C 8.024,5.12 6.81,6.574 6.773,7.897 6.701,10.515 6.518,15.251 6.379,18.887 H 4.586 C 4.552,13.19 4.674,8.653 4.674,8.653 c 0,-1.911 2.76,-4.175 4.922,-4.58 z"
+     id="path2"
+     inkscape:connector-curvature="0"
+     style="fill:#808080" />
+</svg>

@@ -1,1 +1,55 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"><path fill="#e6e6e6" d="M.107 21.712c0-1.241 1.01-2.25 2.25-2.25.983 0 1.5-.866 1.5-1.5.915.69 1.5 1.871 1.5 3a3 3 0 0 1-3 3 2.252 2.252 0 0 1-2.25-2.25m23.705-19.12L21.477.257a1.002 1.002 0 0 0-1.415 0l-3.125 3.125-1.915-1.92-1.415 1.415 1.42 1.42-8.92 8.915v4.75h4.75l8.92-8.92 1.415 1.42 1.415-1.415-1.92-1.92 3.125-3.125a.987.987 0 0 0 0-1.41m-13.785 13.37l-1.92-1.92 8.065-8.065 1.92 1.92-8.065 8.065"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="color-select.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1112"
+     inkscape:window-height="480"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="1.0677966"
+     inkscape:cy="12"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4" />
+  <path
+     d="m 0.107,21.712 c 0,-1.241 1.01,-2.25 2.25,-2.25 0.983,0 1.5,-0.866 1.5,-1.5 0.915,0.69 1.5,1.871 1.5,3 a 3,3 0 0 1 -3,3 2.252,2.252 0 0 1 -2.25,-2.25 M 23.812,2.592 21.477,0.257 a 1.002,1.002 0 0 0 -1.415,0 l -3.125,3.125 -1.915,-1.92 -1.415,1.415 1.42,1.42 -8.92,8.915 v 4.75 h 4.75 l 8.92,-8.92 1.415,1.42 1.415,-1.415 -1.92,-1.92 3.125,-3.125 a 0.987,0.987 0 0 0 0,-1.41 m -13.785,13.37 -1.92,-1.92 8.065,-8.065 1.92,1.92 -8.065,8.065"
+     id="path2"
+     inkscape:connector-curvature="0"
+     style="fill:#e6e6e6" />
+</svg>

@@ -11,7 +11,7 @@
    width="24"
    version="1.1"
    id="svg6"
-   sodipodi:docname="battery-caution-charging-symbolic1.svg"
+   sodipodi:docname="battery-caution-charging-symbolic.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
      id="metadata12">
@@ -37,10 +37,10 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="717"
+     inkscape:window-height="711"
      id="namedview8"
      showgrid="false"
-     inkscape:zoom="22.416667"
+     inkscape:zoom="20.416667"
      inkscape:cx="12"
      inkscape:cy="12"
      inkscape:window-x="0"
@@ -48,17 +48,18 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg6" />
   <path
-     d="M7 2v11h3v9l7-12h-4l4-8z"
-     fill="gray"
-     fill-opacity=".3"
-     id="path2" />
+     d="m 7,2 v 11 h 3 v 9 l 7,-12 h -4 l 4,-8 z"
+     id="path2"
+     inkscape:connector-curvature="0"
+     style="fill:#808080;fill-opacity:0.3" />
   <path
-     d="M12 4.85c-.79 0-1.43.65-1.43 1.44v7.15a1.43 1.43 0 0 0 2.86 0V6.3c0-.8-.64-1.44-1.43-1.44zM12 16.28a1.43 1.43 0 0 0-1.43 1.43A1.43 1.43 0 0 0 12 19.14a1.43 1.43 0 0 0 1.43-1.43A1.43 1.43 0 0 0 12 16.28z"
-     fill="gray"
-     id="path4" />
+     d="m 12,4.85 c -0.79,0 -1.43,0.65 -1.43,1.44 v 7.15 a 1.43,1.43 0 0 0 2.86,0 V 6.3 C 13.43,5.5 12.79,4.86 12,4.86 Z m 0,11.43 A 1.43,1.43 0 0 0 10.57,17.71 1.43,1.43 0 0 0 12,19.14 1.43,1.43 0 0 0 13.43,17.71 1.43,1.43 0 0 0 12,16.28 Z"
+     id="path4"
+     inkscape:connector-curvature="0"
+     style="fill:#808080" />
   <path
      inkscape:connector-curvature="0"
-     style="fill:#808080;fill-opacity:0.99775279;stroke-width:0.49999997"
+     style="fill:#808080;fill-opacity:0.99775277;stroke-width:0.49999997"
      d="m 16.5,12 v 5.5 H 18 V 22 l 3.5,-6 h -2 l 2,-4 z"
      id="path2-3" />
 </svg>

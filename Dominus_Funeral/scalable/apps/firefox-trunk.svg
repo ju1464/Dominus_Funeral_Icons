@@ -12,7 +12,7 @@
    version="1.1"
    id="svg357"
    sodipodi:docname="firefox-trunk.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
      id="metadata361">
     <rdf:RDF>
@@ -35,14 +35,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="719"
+     inkscape:window-height="711"
      id="namedview359"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="5.1406904"
-     inkscape:cx="12.293785"
-     inkscape:cy="39.728814"
+     inkscape:zoom="10.208333"
+     inkscape:cx="24"
+     inkscape:cy="24"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
@@ -2700,7 +2700,7 @@
        y1="-1032.953"
        x2="153.75101"
        y2="-1284.791"
-       gradientTransform="matrix(0.03561514,0.00357941,-0.00357941,0.03561514,-0.40348811,48.75778)"
+       gradientTransform="matrix(0.03561514,0.00357941,-0.00357941,0.03561514,-0.4034881,48.75778)"
        gradientUnits="userSpaceOnUse">
       <stop
          offset="0.187"

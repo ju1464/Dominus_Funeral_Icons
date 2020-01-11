@@ -1,1 +1,60 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"><path d="M12 21.46L1.54 2.54h20.92z" fill="gray" fill-opacity=".3"/><path d="M19.36 12.5a2.65 2.65 0 0 0-2.66 2.66v1.06h-1.59v6.37c0 .58.48 1.06 1.06 1.06h6.37c.59 0 1.05-.48 1.06-1.06l.07-6.34-1.13-.03H22v-1.06a2.65 2.65 0 0 0-2.65-2.65zm0 1.02c.9 0 1.64.73 1.64 1.64v1.06h-3.29v-1.06c0-.9.74-1.64 1.65-1.64zm-3.68 1.28H8.32L12 21.46z" fill="gray"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="nm-signal-25-secure-symbolic.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1112"
+     inkscape:window-height="480"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="1.0677966"
+     inkscape:cy="12"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg6" />
+  <path
+     d="M 12,21.46 1.54,2.54 h 20.92 z"
+     id="path2"
+     inkscape:connector-curvature="0"
+     style="fill:#808080;fill-opacity:0.3" />
+  <path
+     d="m 19.36,12.5 a 2.65,2.65 0 0 0 -2.66,2.66 v 1.06 h -1.59 v 6.37 c 0,0.58 0.48,1.06 1.06,1.06 h 6.37 c 0.59,0 1.05,-0.48 1.06,-1.06 l 0.07,-6.34 -1.13,-0.03 H 22 v -1.06 a 2.65,2.65 0 0 0 -2.65,-2.65 z m 0,1.02 c 0.9,0 1.64,0.73 1.64,1.64 v 1.06 h -3.29 v -1.06 c 0,-0.9 0.74,-1.64 1.65,-1.64 z M 15.68,14.8 H 8.32 L 12,21.46 Z"
+     id="path4"
+     inkscape:connector-curvature="0"
+     style="fill:#808080" />
+</svg>

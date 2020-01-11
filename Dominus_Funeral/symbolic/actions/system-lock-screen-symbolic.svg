@@ -1,1 +1,55 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1"><path fill="gray" d="M12.209 2.844c-2.955 0-5.332 2.74-5.332 6.148v1.324H5.471c-.562 0-1.014.454-1.014 1.016v9.053c0 .561.452 1.013 1.014 1.013h13.134c.562 0 1.014-.452 1.014-1.013v-9.053c0-.562-.452-1.016-1.014-1.016h-1.062V8.992c0-3.407-2.38-6.148-5.334-6.148zm0 1.646c1.847 0 3.334 2.23 3.334 4.998v.828H8.877v-.828c0-2.769 1.485-4.998 3.332-4.998z"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   version="1"
+   id="svg4"
+   sodipodi:docname="system-lock-screen-symbolic.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1112"
+     inkscape:window-height="480"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="1.0677966"
+     inkscape:cy="12"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4" />
+  <path
+     d="m 12.209,2.844 c -2.955,0 -5.332,2.74 -5.332,6.148 v 1.324 H 5.471 c -0.562,0 -1.014,0.454 -1.014,1.016 v 9.053 c 0,0.561 0.452,1.013 1.014,1.013 h 13.134 c 0.562,0 1.014,-0.452 1.014,-1.013 v -9.053 c 0,-0.562 -0.452,-1.016 -1.014,-1.016 H 17.543 V 8.992 c 0,-3.407 -2.38,-6.148 -5.334,-6.148 z m 0,1.646 c 1.847,0 3.334,2.23 3.334,4.998 v 0.828 H 8.877 V 9.488 c 0,-2.769 1.485,-4.998 3.332,-4.998 z"
+     id="path2"
+     inkscape:connector-curvature="0"
+     style="fill:#808080" />
+</svg>

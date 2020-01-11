@@ -1,1 +1,67 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 6.35 6.35"><defs><linearGradient id="a"><stop offset="0"/><stop offset="1" stop-opacity="0"/></linearGradient></defs><path d="M.42 2.1c-.2 0-.36.16-.36.36V3.9c0 .2.16.37.36.37h5.5c.21 0 .37-.17.37-.37V2.46c0-.2-.16-.37-.36-.37H.43zm.25.55h.75c.1 0 .18.08.18.18v.7c0 .1-.08.17-.18.17H.67a.18.18 0 0 1-.18-.18v-.7c0-.1.08-.17.18-.17zm1.59 0H3c.1 0 .18.08.18.18v.7c0 .1-.08.17-.18.17h-.75a.18.18 0 0 1-.18-.18v-.7c0-.1.08-.17.18-.17zm1.7.22H5.6c.1 0 .18.08.18.18v.25c0 .1-.08.18-.18.18H3.95a.18.18 0 0 1-.18-.18v-.25c0-.1.08-.18.18-.18z" fill="#1a1a1a" fill-rule="evenodd"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   viewBox="0 0 6.35 6.35"
+   version="1.1"
+   id="svg11"
+   sodipodi:docname="gnome-panel.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata15">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1138"
+     inkscape:window-height="480"
+     id="namedview13"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="1.0677966"
+     inkscape:cy="12"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg11" />
+  <defs
+     id="defs7">
+    <linearGradient
+       id="a">
+      <stop
+         offset="0"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-opacity="0"
+         id="stop4" />
+    </linearGradient>
+  </defs>
+  <path
+     d="M 0.42,2.1 C 0.22,2.1 0.06,2.26 0.06,2.46 V 3.9 c 0,0.2 0.16,0.37 0.36,0.37 h 5.5 C 6.13,4.27 6.29,4.1 6.29,3.9 V 2.46 C 6.29,2.26 6.13,2.09 5.93,2.09 h -5.5 z m 0.25,0.55 h 0.75 c 0.1,0 0.18,0.08 0.18,0.18 v 0.7 C 1.6,3.63 1.52,3.7 1.42,3.7 H 0.67 A 0.18,0.18 0 0 1 0.49,3.52 v -0.7 c 0,-0.1 0.08,-0.17 0.18,-0.17 z m 1.59,0 H 3 c 0.1,0 0.18,0.08 0.18,0.18 v 0.7 C 3.18,3.63 3.1,3.7 3,3.7 H 2.25 A 0.18,0.18 0 0 1 2.07,3.52 v -0.7 c 0,-0.1 0.08,-0.17 0.18,-0.17 z m 1.7,0.22 H 5.6 c 0.1,0 0.18,0.08 0.18,0.18 V 3.3 C 5.78,3.4 5.7,3.48 5.6,3.48 H 3.95 A 0.18,0.18 0 0 1 3.77,3.3 V 3.05 c 0,-0.1 0.08,-0.18 0.18,-0.18 z"
+     id="path9"
+     inkscape:connector-curvature="0"
+     style="fill:#1a1a1a;fill-rule:evenodd" />
+</svg>

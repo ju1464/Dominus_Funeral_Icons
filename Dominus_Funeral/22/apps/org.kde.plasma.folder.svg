@@ -1,1 +1,55 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1"><path d="M11.936 2.42c-3.09 0-7.253 3.006-7.323 5.538-.076 2.755-.269 7.74-.415 11.567H2.31v2.504h19.37v-2.504h-2.033c-.138-4.458-.291-9.595-.407-11.567-.155-2.64-4.214-5.538-7.303-5.538zm-.967 3.858h1.929v4.933h2.062v1.927h-2.062v1.518h-1.929v-1.518H8.972V11.21h1.997z" fill="#1a1a1a"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   version="1"
+   id="svg4"
+   sodipodi:docname="org.kde.plasma.folder.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1138"
+     inkscape:window-height="480"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="1.0677966"
+     inkscape:cy="12"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4" />
+  <path
+     d="m 11.936,2.42 c -3.09,0 -7.253,3.006 -7.323,5.538 -0.076,2.755 -0.269,7.74 -0.415,11.567 H 2.31 v 2.504 H 21.68 V 19.525 H 19.647 C 19.509,15.067 19.356,9.93 19.24,7.958 19.085,5.318 15.026,2.42 11.937,2.42 Z m -0.967,3.858 h 1.929 v 4.933 h 2.062 v 1.927 h -2.062 v 1.518 H 10.969 V 13.138 H 8.972 V 11.21 h 1.997 z"
+     id="path2"
+     inkscape:connector-curvature="0"
+     style="fill:#1a1a1a" />
+</svg>

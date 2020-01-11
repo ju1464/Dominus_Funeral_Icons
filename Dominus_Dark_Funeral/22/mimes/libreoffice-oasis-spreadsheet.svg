@@ -1,1 +1,55 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"><path d="M.46 3.02v17.96h23.08V3.02H.46zm2.57 2.57h7.7v2.57h-7.7V5.59zm10.26 0h7.69v2.57h-7.7V5.59zM3.03 10.7h7.7v2.58h-7.7V10.7zm10.26 0h7.69v2.58h-7.7V10.7zM3.03 15.84h7.7v2.57h-7.7v-2.57zm10.26 0h7.69v2.57h-7.7v-2.57z" fill="#e6e6e6"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="libreoffice-oasis-spreadsheet.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1112"
+     inkscape:window-height="480"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="1.0677966"
+     inkscape:cy="12"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4" />
+  <path
+     d="M 0.46,3.02 V 20.98 H 23.54 V 3.02 Z m 2.57,2.57 h 7.7 v 2.57 h -7.7 z m 10.26,0 h 7.69 v 2.57 h -7.7 V 5.59 Z M 3.03,10.7 h 7.7 v 2.58 h -7.7 z m 10.26,0 h 7.69 v 2.58 h -7.7 V 10.7 Z M 3.03,15.84 h 7.7 v 2.57 h -7.7 z m 10.26,0 h 7.69 v 2.57 h -7.7 v -2.57 z"
+     id="path2"
+     inkscape:connector-curvature="0"
+     style="fill:#e6e6e6" />
+</svg>

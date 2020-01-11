@@ -1,1 +1,60 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="24" width="24"><path d="M11.41 8.1a7.03 6.74 31.64 0 0-4.99 2.4l.14-.02 4.65 2.87c.1.06 0 .36-.2.7l-.32.51c-.2.33-.44.55-.53.5l-4.65-2.88-.1.04a7.03 6.74 31.64 0 0 2.93 8.43 7.03 6.74 31.64 0 0 9.51-2.05 7.03 6.74 31.64 0 0-2.44-9.43 7.03 6.74 31.64 0 0-4-1.07z" fill="gray"/><path d="M12 2.26c-4.33 0-7.96 1.95-10.78 5.04v2.76H3.5c2.34-2.46 4.96-3.9 8.5-3.9s6.16 1.52 8.5 3.9h2.28v-2.7c-2.53-2.85-6.45-5.1-10.78-5.1z" fill="gray" fill-opacity=".3"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="24"
+   width="24"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="audio-volume-muted-symbolic.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1112"
+     inkscape:window-height="480"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="1.0677966"
+     inkscape:cy="12"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg6" />
+  <path
+     d="m 11.41,8.1 a 7.03,6.74 31.64 0 0 -4.99,2.4 l 0.14,-0.02 4.65,2.87 c 0.1,0.06 0,0.36 -0.2,0.7 l -0.32,0.51 c -0.2,0.33 -0.44,0.55 -0.53,0.5 l -4.65,-2.88 -0.1,0.04 a 7.03,6.74 31.64 0 0 2.93,8.43 7.03,6.74 31.64 0 0 9.51,-2.05 7.03,6.74 31.64 0 0 -2.44,-9.43 7.03,6.74 31.64 0 0 -4,-1.07 z"
+     id="path2"
+     inkscape:connector-curvature="0"
+     style="fill:#808080" />
+  <path
+     d="M 12,2.26 C 7.67,2.26 4.04,4.21 1.22,7.3 v 2.76 H 3.5 C 5.84,7.6 8.46,6.16 12,6.16 c 3.54,0 6.16,1.52 8.5,3.9 h 2.28 V 7.36 C 20.25,4.51 16.33,2.26 12,2.26 Z"
+     id="path4"
+     inkscape:connector-curvature="0"
+     style="fill:#808080;fill-opacity:0.3" />
+</svg>

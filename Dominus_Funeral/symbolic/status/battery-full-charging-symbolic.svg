@@ -11,7 +11,7 @@
    width="24"
    version="1.1"
    id="svg4"
-   sodipodi:docname="battery-full-charging-symbolic1.svg"
+   sodipodi:docname="battery-full-charging-symbolic.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
      id="metadata10">
@@ -36,7 +36,7 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="976"
+     inkscape:window-width="1112"
      inkscape:window-height="480"
      id="namedview6"
      showgrid="false"
@@ -48,9 +48,10 @@
      inkscape:window-maximized="0"
      inkscape:current-layer="svg4" />
   <path
-     d="M7 2v11h3v9l7-12h-4l4-8z"
-     fill="gray"
-     id="path2" />
+     d="m 7,2 v 11 h 3 v 9 l 7,-12 h -4 l 4,-8 z"
+     id="path2"
+     inkscape:connector-curvature="0"
+     style="fill:#808080" />
   <path
      inkscape:connector-curvature="0"
      style="fill:#808080;stroke-width:0.49999997"
