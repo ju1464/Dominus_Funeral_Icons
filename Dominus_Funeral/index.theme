@@ -8,7 +8,7 @@ Inherits=breeze,Adwaita,hicolor
 
 Example=folder
 
-FollowsColorScheme=true
+FollowsColorScheme=false
 
 DesktopDefault=48
 DesktopSizes=16,22,32,48,64,128,256
