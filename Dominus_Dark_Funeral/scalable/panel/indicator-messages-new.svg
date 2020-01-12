@@ -1,1 +1,56 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 6.35 6.35"><path d="M.75 1.34c-.12 0-.22.1-.22.22V4.8c0 .12.1.22.22.22H5.6c.12 0 .22-.1.22-.22V1.56c0-.12-.1-.22-.22-.22H.75zm-.15.1l1.5 1.38c.3.32.66.37 1.07.35.4 0 .8 0 1.08-.35l1.5-1.38-1.5 1.68 1.5 1.82-1.5-1.52c-.04-.06-.1-.1-.16-.14-.26.19-.6.19-.92.2a1.4 1.4 0 0 1-.9-.2c-.06.04-.12.08-.17.14L.6 4.94l1.5-1.82L.6 1.44z" fill="#c83737" fill-rule="evenodd"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   viewBox="0 0 6.35 6.35"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="indicator-messages-new.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1112"
+     inkscape:window-height="480"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="1.0677966"
+     inkscape:cy="12"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4" />
+  <path
+     d="m 0.75,1.34 c -0.12,0 -0.22,0.1 -0.22,0.22 V 4.8 c 0,0.12 0.1,0.22 0.22,0.22 H 5.6 c 0.12,0 0.22,-0.1 0.22,-0.22 V 1.56 C 5.82,1.44 5.72,1.34 5.6,1.34 Z M 0.6,1.44 2.1,2.82 c 0.3,0.32 0.66,0.37 1.07,0.35 0.4,0 0.8,0 1.08,-0.35 L 5.75,1.44 4.25,3.12 5.75,4.94 4.25,3.42 C 4.21,3.36 4.15,3.32 4.09,3.28 3.83,3.47 3.49,3.47 3.17,3.48 A 1.4,1.4 0 0 1 2.27,3.28 C 2.21,3.32 2.15,3.36 2.1,3.42 L 0.6,4.94 2.1,3.12 Z"
+     id="path2"
+     inkscape:connector-curvature="0"
+     style="fill:#c83737;fill-rule:evenodd" />
+</svg>

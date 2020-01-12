@@ -1,1 +1,149 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 48 48"><defs><linearGradient xlink:href="#a" id="d" gradientUnits="userSpaceOnUse" x1="14.49" y1="30.64" x2="41.26" y2="30.64"/><linearGradient id="a"><stop offset="0"/><stop offset="1" stop-opacity="0"/></linearGradient><linearGradient gradientTransform="translate(0 .04)" xlink:href="#b" id="c" x1="4.15" y1="9.11" x2="46.27" y2="27.57" gradientUnits="userSpaceOnUse"/><linearGradient id="b"><stop offset="0" stop-color="#53536c"/><stop offset=".2" stop-color="#9393ac"/><stop offset=".33" stop-color="#8d8da8"/><stop offset=".44" stop-color="#6f6f91"/><stop offset=".57" stop-color="#53536c"/><stop offset=".76" stop-color="#6f6f91"/><stop offset="1" stop-color="#b7b7c8"/></linearGradient></defs><path d="M40.9 17.46L33.07 48H14.95L7.12 17.46l5.9-17.4H35z" fill="url(#c)"/><path d="M18.29 43.86L14.95 48h18.12l-3.34-4.15z" fill="#1c1c24" fill-opacity=".1"/><path d="M13.02.07l3.08 4.15h15.8L35 .07z" fill="#1c1c24" fill-opacity=".35"/><path d="M18.27 43.86L14.93 48 7.1 17.46l4.44.16z" fill="#1c1c24" fill-opacity=".47"/><path d="M7.1 17.46L13 .06l3.1 4.16-4.56 13.4zm33.8 0L35 .06l-3.1 4.16 4.56 13.4z" fill="#1c1c24" fill-opacity=".71"/><path d="M29.73 43.86L33.07 48l7.83-30.55-4.44.16z" fill="#1c1c24" fill-opacity=".47"/><path d="M30.83 39.46l5.6-21.88-.9-2.67L33 12.38l-17.5.57-.5 10.68z" opacity=".5" fill="url(#d)"/><path d="M15 12.38v11.25h18V12.38zm.75 1.5h3v2.25h-3zm3.75 0h6v2.25h-6zm6.75 0h6v2.25h-6zm-10.5 3h3v2.25h-3zm3.75 0h6v2.25h-6zm6.75 0h6v2.25h-6zm-10.5 3h3v2.25h-3zm3.75 0h6v2.25h-6zm6.75 0h6v2.25h-6z" color="#000" fill="#dbdee3"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg42"
+   sodipodi:docname="x-office-spreadsheet.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata46">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1112"
+     inkscape:window-height="480"
+     id="namedview44"
+     showgrid="false"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="2.1355932"
+     inkscape:cy="24"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg42" />
+  <defs
+     id="defs24">
+    <linearGradient
+       xlink:href="#a"
+       id="d"
+       gradientUnits="userSpaceOnUse"
+       x1="14.49"
+       y1="30.64"
+       x2="41.26"
+       y2="30.64" />
+    <linearGradient
+       id="a">
+      <stop
+         offset="0"
+         id="stop3" />
+      <stop
+         offset="1"
+         stop-opacity="0"
+         id="stop5" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="translate(0,0.04)"
+       xlink:href="#b"
+       id="c"
+       x1="4.15"
+       y1="9.11"
+       x2="46.27"
+       y2="27.57"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="b">
+      <stop
+         offset="0"
+         stop-color="#53536c"
+         id="stop9" />
+      <stop
+         offset=".2"
+         stop-color="#9393ac"
+         id="stop11" />
+      <stop
+         offset=".33"
+         stop-color="#8d8da8"
+         id="stop13" />
+      <stop
+         offset=".44"
+         stop-color="#6f6f91"
+         id="stop15" />
+      <stop
+         offset=".57"
+         stop-color="#53536c"
+         id="stop17" />
+      <stop
+         offset=".76"
+         stop-color="#6f6f91"
+         id="stop19" />
+      <stop
+         offset="1"
+         stop-color="#b7b7c8"
+         id="stop21" />
+    </linearGradient>
+  </defs>
+  <path
+     d="M 40.9,17.46 33.07,48 H 14.95 L 7.12,17.46 13.02,0.06 H 35 Z"
+     id="path26"
+     style="fill:url(#c)"
+     inkscape:connector-curvature="0" />
+  <path
+     d="M 18.29,43.86 14.95,48 h 18.12 l -3.34,-4.15 z"
+     id="path28"
+     inkscape:connector-curvature="0"
+     style="fill:#1c1c24;fill-opacity:0.1" />
+  <path
+     d="M 13.02,0.07 16.1,4.22 H 31.9 L 35,0.07 Z"
+     id="path30"
+     inkscape:connector-curvature="0"
+     style="fill:#1c1c24;fill-opacity:0.35" />
+  <path
+     d="M 18.27,43.86 14.93,48 7.1,17.46 l 4.44,0.16 z"
+     id="path32"
+     inkscape:connector-curvature="0"
+     style="fill:#1c1c24;fill-opacity:0.47000002" />
+  <path
+     d="m 7.1,17.46 5.9,-17.4 3.1,4.16 -4.56,13.4 z m 33.8,0 -5.9,-17.4 -3.1,4.16 4.56,13.4 z"
+     id="path34"
+     inkscape:connector-curvature="0"
+     style="fill:#1c1c24;fill-opacity:0.70999995" />
+  <path
+     d="M 29.73,43.86 33.07,48 40.9,17.45 36.46,17.61 Z"
+     id="path36"
+     inkscape:connector-curvature="0"
+     style="fill:#1c1c24;fill-opacity:0.47000002" />
+  <path
+     d="M 30.83,39.46 36.43,17.58 35.53,14.91 33,12.38 15.5,12.95 15,23.63 Z"
+     id="path38"
+     style="opacity:0.5;fill:url(#d)"
+     inkscape:connector-curvature="0" />
+  <path
+     d="M 15,12.38 V 23.63 H 33 V 12.38 Z m 0.75,1.5 h 3 v 2.25 h -3 z m 3.75,0 h 6 v 2.25 h -6 z m 6.75,0 h 6 v 2.25 h -6 z m -10.5,3 h 3 v 2.25 h -3 z m 3.75,0 h 6 v 2.25 h -6 z m 6.75,0 h 6 v 2.25 h -6 z m -10.5,3 h 3 v 2.25 h -3 z m 3.75,0 h 6 v 2.25 h -6 z m 6.75,0 h 6 v 2.25 h -6 z"
+     id="path40"
+     inkscape:connector-curvature="0"
+     style="color:#000000;fill:#dbdee3" />
+</svg>
