@@ -1,4 +1,4 @@
-![alt text](https://github.com/ju1464/Electric_Funeral_Icons/blob/master/logo.svg)
+![alt text](https://github.com/ju1464/Dominus_Funeral_Icons/blob/master/logo.svg)
 # Electric_Funeral_Icons
 ## METALHEADS ICONS.
 
