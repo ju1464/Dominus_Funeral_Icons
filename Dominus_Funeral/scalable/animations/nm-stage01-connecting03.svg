@@ -7,14 +7,14 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="48"
-   height="48"
+   width="24"
+   height="24"
    version="1.1"
-   id="svg4"
-   sodipodi:docname="nm-stage01-connecting03.svg"
+   id="svg6"
+   sodipodi:docname="network-wireless-signal-good.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
-     id="metadata10">
+     id="metadata12">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -26,7 +26,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs8" />
+     id="defs10" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -38,18 +38,23 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1112"
      inkscape:window-height="480"
-     id="namedview6"
+     id="namedview8"
      showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="24"
-     inkscape:cy="24"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="1.0677966"
+     inkscape:cy="12"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg4" />
+     inkscape:current-layer="svg6" />
   <path
-     d="m 30.148,7.105 -1.367,3.756 A 14,14 0 0 1 38,24 h 4 A 18,18 0 0 0 36.729,11.271 18,18 0 0 0 30.149,7.105 Z"
+     d="M 12,21.46 1.54,2.54 h 20.92 z"
      id="path2"
      inkscape:connector-curvature="0"
-     style="fill:#cccccc" />
+     style="fill:#1a1a1a;fill-opacity:0.3" />
+  <path
+     d="m 3.87,6.76 2.3,4.17 2.14,3.87 3.69,6.66 3.68,-6.66 2.14,-3.87 2.3,-4.17 z"
+     id="path4"
+     inkscape:connector-curvature="0"
+     style="fill:#1a1a1a" />
 </svg>
