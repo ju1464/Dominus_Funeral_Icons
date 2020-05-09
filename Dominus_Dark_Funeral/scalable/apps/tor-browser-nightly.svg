@@ -11,7 +11,7 @@
    height="48"
    version="1.1"
    id="svg33"
-   sodipodi:docname="tor.svg"
+   sodipodi:docname="tor-browser-nightly.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
      id="metadata37">
@@ -39,7 +39,7 @@
      id="namedview35"
      showgrid="false"
      inkscape:zoom="4.9166667"
-     inkscape:cx="24"
+     inkscape:cx="2.1355932"
      inkscape:cy="24"
      inkscape:window-x="0"
      inkscape:window-y="25"
@@ -55,11 +55,11 @@
        gradientTransform="matrix(1.2701,0.83264,-0.64187,0.97911,5.8649,-15.971)"
        gradientUnits="userSpaceOnUse">
       <stop
-         stop-color="#e9afdd"
+         stop-color="#80b3ff"
          offset="0"
          id="stop2" />
       <stop
-         stop-color="#800080"
+         stop-color="#04a"
          offset="1"
          id="stop4" />
     </radialGradient>
@@ -86,11 +86,11 @@
        y2="5.8712"
        gradientUnits="userSpaceOnUse">
       <stop
-         stop-color="#441650"
+         stop-color="#162d50"
          offset="0"
          id="stop12" />
       <stop
-         stop-color="#ab37c8"
+         stop-color="#3771c8"
          offset="1"
          id="stop14" />
     </linearGradient>
