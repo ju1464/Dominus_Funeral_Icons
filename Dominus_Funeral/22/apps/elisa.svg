@@ -10,11 +10,11 @@
    width="24"
    height="24"
    version="1"
-   id="svg25"
+   id="svg4"
    sodipodi:docname="elisa.svg"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <metadata
-     id="metadata29">
+     id="metadata10">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -25,6 +25,8 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <defs
+     id="defs8" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -34,63 +36,20 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="717"
-     id="namedview27"
+     inkscape:window-width="1085"
+     inkscape:window-height="480"
+     id="namedview6"
      showgrid="false"
-     inkscape:zoom="21.541667"
-     inkscape:cx="12"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="1.0677966"
      inkscape:cy="12"
      inkscape:window-x="0"
      inkscape:window-y="25"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg25" />
-  <defs
-     id="defs21">
-    <linearGradient
-       id="b">
-      <stop
-         offset="0"
-         id="stop2" />
-      <stop
-         offset="1"
-         stop-opacity="0"
-         id="stop4" />
-    </linearGradient>
-    <linearGradient
-       id="a">
-      <stop
-         offset="0"
-         stop-color="#edb763"
-         id="stop7" />
-      <stop
-         offset=".5"
-         stop-color="#de7f32"
-         id="stop9" />
-      <stop
-         offset="1"
-         stop-color="#d24413"
-         id="stop11" />
-    </linearGradient>
-    <linearGradient
-       id="c">
-      <stop
-         offset="0"
-         stop-color="#f6b2ee"
-         id="stop14" />
-      <stop
-         offset=".262"
-         stop-color="#d979cd"
-         id="stop16" />
-      <stop
-         offset="1"
-         stop-color="#753da6"
-         id="stop18" />
-    </linearGradient>
-  </defs>
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4" />
   <path
-     style="fill:#1a1a1a;fill-opacity:1;stroke-width:0.88219053"
-     d="M 3.5605469,3.75 C 2.6959889,3.75 2,4.4919625 2,5.4140625 V 18.085938 c 0,0.9018 0.6738277,1.610755 1.5117188,1.642578 L 5.5,16.25 h 13 l 1.988281,3.478516 C 21.326172,19.696693 22,18.987739 22,18.085938 V 5.4140625 C 22,4.4919625 21.30401,3.75 20.439453,3.75 Z m 1.2421875,2 H 19.197266 C 19.642053,5.75 20,6.1805969 20,6.7167969 V 9.75 14.839844 C 20,15.344444 19.642053,15.75 19.197266,15.75 H 4.8027344 C 4.3579454,15.75 4,15.344444 4,14.839844 V 9.75 6.7167969 C 4,6.1805969 4.3579454,5.75 4.8027344,5.75 Z m 3.1074218,4 C 6.8526843,9.75 6,10.641747 6,11.748047 v 0.0098 c 0,1.1063 0.8526842,1.996094 1.9101562,1.996094 H 16.089844 C 17.147318,13.753906 18,12.864113 18,11.757812 v -0.0098 C 18,10.641647 17.147318,9.75 16.089844,9.75 Z M 8,10.25 c 0.8284271,0 1.5,0.6716 1.5,1.5 0,0.8284 -0.6715729,1.5 -1.5,1.5 -0.8284272,0 -1.5,-0.6716 -1.5,-1.5 0,-0.8284 0.6715728,-1.5 1.5,-1.5 z m 8,0 c 0.828427,0 1.5,0.6716 1.5,1.5 0,0.8284 -0.671573,1.5 -1.5,1.5 -0.828427,0 -1.5,-0.6716 -1.5,-1.5 0,-0.8284 0.671573,-1.5 1.5,-1.5 z m -9.734375,6.669922 -1.7539062,3.068359 c 0.016719,6.35e-4 0.026099,0.01953 0.042969,0.01953 H 19.445312 c 0.01687,0 0.02625,-0.0189 0.04297,-0.01953 l -1.753906,-3.068359 z"
-     id="path875"
-     inkscape:connector-curvature="0" />
+     d="M 3.56,3.75 C 2.697,3.75 2,4.492 2,5.414 v 12.672 c 0,0.902 0.674,1.61 1.512,1.643 L 5.5,16.25 h 13 l 1.988,3.479 C 21.326,19.697 22,18.988 22,18.086 V 5.414 C 22,4.492 21.304,3.75 20.44,3.75 Z m 1.243,2 H 19.197 C 19.642,5.75 20,6.18 20,6.717 v 8.123 c 0,0.504 -0.358,0.91 -0.803,0.91 H 4.803 C 4.358,15.75 4,15.344 4,14.84 V 6.717 C 4,6.181 4.358,5.75 4.803,5.75 Z m 3.107,4 C 6.853,9.75 6,10.642 6,11.748 v 0.01 c 0,1.106 0.853,1.996 1.91,1.996 h 8.18 c 1.057,0 1.91,-0.89 1.91,-1.996 v -0.01 C 18,10.642 17.147,9.75 16.09,9.75 Z M 8,10.25 a 1.5,1.5 0 1 1 0,3 1.5,1.5 0 0 1 0,-3 z m 8,0 a 1.5,1.5 0 1 1 0,3 1.5,1.5 0 0 1 0,-3 z m -9.734,6.67 -1.754,3.068 c 0.016,0 0.026,0.02 0.043,0.02 h 14.89 c 0.017,0 0.027,-0.02 0.043,-0.02 L 17.734,16.92 Z"
+     id="path2"
+     inkscape:connector-curvature="0"
+     style="fill:#1a1a1a" />
 </svg>
